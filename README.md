@@ -68,6 +68,16 @@
 
 ---
 
+### 📺 Upcoming Tech Events
+
+<!-- EVENTS:START -->
+- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
+- [Build a GOOGLE Clone with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
+- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
+- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
+- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
+<!-- EVENTS:END -->
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -78,7 +88,7 @@
 - [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCzR7FDKdaL6-hR5gMWf-lgA)
+➡️ [more videos...][youtube]
 
 ---
 
@@ -92,7 +102,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://community.jamaicans.dev/u/b4oshany/)
+➡️ [more blog posts...][website]
 
 ---
 
@@ -121,7 +131,7 @@
 [community]: https://community.jamaicans.dev
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/b4oshany
-[youtube]: https://youtube.com/b4oshany
+[youtube]: https://www.youtube.com/channel/UCzR7FDKdaL6-hR5gMWf-lgA
 [instagram]: https://instagram.com/b4oshany
 [linkedin]: https://linkedin.com/in/b4oshany
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
