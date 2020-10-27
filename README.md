@@ -81,11 +81,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Build a GOOGLE Clone with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
+- [Meet Joel Dean: Google Developers Group Kingston Lead Organizer and WordPress Engineer](https://www.youtube.com/watch?v=GdFlJh0cltY)
+- [Meet Bianca Welds: Lead Organiser for Kingston WordPress Meetup, Event Host and Digital Innovator](https://www.youtube.com/watch?v=IxP239nZ-d8)
+- [How I became a Tech Entrepreneur | Community Leader for Python Jamaica | MakeBetter | David Bain](https://www.youtube.com/watch?v=hUu7ARJOS3M)
+- [Quality Assurance | Economical Cost of Software Testing in 2020 | Visual Testing Meetup Part 4](https://www.youtube.com/watch?v=Wqopp3KHMTE)
+- [Software Testing Tools  | End-to-End Testing with Cypress | Visual Testing Meetup Part 3](https://www.youtube.com/watch?v=tQLHVidkqEg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
