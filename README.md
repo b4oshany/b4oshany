@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=community.jamaicans.dev&style=for-the-badge&url=https%3A%2F%2Fcommunity.jamaicans.dev)](https://community.jamaicans.dev/u/b4oshany/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/b4oshany?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fb4oshany&screen_name=b4oshany)
 
-## I'm a Foodie, Techie, Full Stack Developer and Entrepreneur!!
+## I'm a Foodie, Techie, Full Stack Developer, Entrepreneur and a Jamaican!!
 
 - 🔭 I just launched my first company: [Jamaican Developers Group!][website]!
 - 🌱 I’m currently learning everything thing I need to know about running a business while still doing coding 🤣
 - 👯 I’m looking to collaborate with other tech enthusiasts and digital professionals
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects, help build the tech community in Jamaica and create innovative solutions
-- ⚡ Fun fact: I love to food and I have a bottomless pit, but I don't eat fish and Jamaica's national fruit, Ackee.
+- ⚡ Fun fact: I love food and I have a bottomless pit, but I don't like fish and Jamaica's national fruit, Ackee.
 
 
 ### Tech Communities I'm involved in:
