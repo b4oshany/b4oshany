@@ -29,7 +29,7 @@
 - Over 8 years of experience in Software Development
 - Participated as a student in Google Summer of Code, 2017 and mentored other students in 2018
 - Worked at Alteroo and did quite a lot of freelance Jobs.
-- Started to Jamaican Developers Group as a community in 2018, which aims to grow and market the development skills of Jamaicans with a community of highly proficient technical officers and companies while providing valuable information about technology related events and initiatives.
+- Started Jamaican Developers Group as a community in 2018, which aims to grow and market the development skills of Jamaicans with a community of highly proficient technical officers and companies while providing valuable information about technology related events and initiatives.
 - Started my own company in late 2020
 
 ### Connect with me:
