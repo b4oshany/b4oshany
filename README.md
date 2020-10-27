@@ -105,11 +105,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/ozgur/python-firebase/issues/18) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
-2. 🗣 Commented on [#18](https://github.com/ozgur/python-firebase/issues/18) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
-3. 💪 Opened PR [#13](https://github.com/jordanliu/openjamaica/pull/13) in [jordanliu/openjamaica](https://github.com/jordanliu/openjamaica)
-4. 🗣 Commented on [#143](https://github.com/jc21/nginx-proxy-manager/issues/143) in [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
-5. 🎉 Merged PR [#1](https://github.com/alteroo/headwind-mdm-docker/pull/1) in [alteroo/headwind-mdm-docker](https://github.com/alteroo/headwind-mdm-docker)
+1. ❗️ Opened issue [#38](https://github.com/gautamkrishnar/blog-post-workflow/issues/38) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+2. ❗️ Closed issue [#18](https://github.com/ozgur/python-firebase/issues/18) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
+3. 🗣 Commented on [#18](https://github.com/ozgur/python-firebase/issues/18) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
+4. 💪 Opened PR [#13](https://github.com/jordanliu/openjamaica/pull/13) in [jordanliu/openjamaica](https://github.com/jordanliu/openjamaica)
+5. 🗣 Commented on [#143](https://github.com/jc21/nginx-proxy-manager/issues/143) in [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
 <!--END_SECTION:activity-->
 
 </details>
