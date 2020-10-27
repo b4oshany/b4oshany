@@ -71,12 +71,10 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Build a GOOGLE Clone with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
+- [Career in Tech](https://www.meetup.com/Jamaican-Developers-Group/events/)
 <!-- EVENTS:END -->
+
+➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
 
 ### 📺 Latest YouTube Videos
 
@@ -95,11 +93,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Where can I find the various tech communities in Jamaica?](https://community.jamaicans.dev/t/where-can-i-find-the-various-tech-communities-in-jamaica/122)
+- [6 BOUNDARIES for Creative Professionals](https://jamaicandevelopers.com/p/6-boundaries-for-creative-professionals)
+- [Big Award For Computer Programmer Against Paymaster](https://jamaicandevelopers.com/p/big-award-for-computer-programmer-against-paymaster)
+- [5 Practical Ways To Share Code: From NPM To Lerna, Git Submodules and Bit](https://jamaicandevelopers.com/p/5-practical-ways-to-share-code-from-npm-to-lerna-git-submodules-and-bit)
+- [Jamaica Developers Payment Gateway Survey](https://jamaicandevelopers.com/p/jamaica-developers-payment-gateway-survey)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
