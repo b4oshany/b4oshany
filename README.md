@@ -106,10 +106,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-2. ❌ Closed PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-3. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-4. 💪 Opened PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-5. ❗️ Opened issue [#38](https://github.com/gautamkrishnar/blog-post-workflow/issues/38) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+2. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+3. ❌ Closed PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+4. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+5. 💪 Opened PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
 <!--END_SECTION:activity-->
 
 </details>
