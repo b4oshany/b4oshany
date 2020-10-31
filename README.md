@@ -1,7 +1,6 @@
 ### Hi there, I'm Oshane - aka [b4oshany][profile] 👋
 
 [![Website](https://img.shields.io/website?label=community.jamaicans.dev&style=for-the-badge&url=https%3A%2F%2Fcommunity.jamaicans.dev)](https://community.jamaicans.dev/u/b4oshany/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/b4oshany?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fb4oshany&screen_name=b4oshany)
 
 ## I'm a Foodie, Techie, Full Stack Developer, Entrepreneur and a Jamaican!!
 
