@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+1. 🗣 Commented on [#108](https://github.com/ozgur/python-firebase/issues/108) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
 2. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-3. ❌ Closed PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-4. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-5. 💪 Opened PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+3. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+4. ❌ Closed PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+5. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
 <!--END_SECTION:activity-->
 
 </details>
