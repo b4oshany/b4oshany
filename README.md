@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-2. 💪 Opened PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-3. 🎉 Merged PR [#1](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/1) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-4. 💪 Opened PR [#1](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/1) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-5. 🗣 Commented on [#108](https://github.com/ozgur/python-firebase/issues/108) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
+1. 💪 Opened PR [#2](https://github.com/hrshadhin/laravel-userstamps/pull/2) in [hrshadhin/laravel-userstamps](https://github.com/hrshadhin/laravel-userstamps)
+2. 🎉 Merged PR [#3](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/3) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+3. 💪 Opened PR [#3](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/3) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+4. 🎉 Merged PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+5. 💪 Opened PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
 <!--END_SECTION:activity-->
 
 </details>
