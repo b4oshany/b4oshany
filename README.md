@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/ozgur/python-firebase/issues/108) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
-2. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-3. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-4. ❌ Closed PR [#5129](https://github.com/the-control-group/voyager/pull/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
-5. 🗣 Commented on [#5129](https://github.com/the-control-group/voyager/issues/5129) in [the-control-group/voyager](https://github.com/the-control-group/voyager)
+1. 🎉 Merged PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+2. 💪 Opened PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+3. 🎉 Merged PR [#1](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/1) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+4. 💪 Opened PR [#1](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/1) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+5. 🗣 Commented on [#108](https://github.com/ozgur/python-firebase/issues/108) in [ozgur/python-firebase](https://github.com/ozgur/python-firebase)
 <!--END_SECTION:activity-->
 
 </details>
