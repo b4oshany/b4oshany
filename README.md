@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/hrshadhin/laravel-userstamps/pull/2) in [hrshadhin/laravel-userstamps](https://github.com/hrshadhin/laravel-userstamps)
-2. 🎉 Merged PR [#3](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/3) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-3. 💪 Opened PR [#3](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/3) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-4. 🎉 Merged PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
-5. 💪 Opened PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+1. 💪 Opened PR [#17](https://github.com/davidtaylorhq/discourse-telegram-notifications/pull/17) in [davidtaylorhq/discourse-telegram-notifications](https://github.com/davidtaylorhq/discourse-telegram-notifications)
+2. 💪 Opened PR [#2](https://github.com/hrshadhin/laravel-userstamps/pull/2) in [hrshadhin/laravel-userstamps](https://github.com/hrshadhin/laravel-userstamps)
+3. 🎉 Merged PR [#3](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/3) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+4. 💪 Opened PR [#3](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/3) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+5. 🎉 Merged PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
 <!--END_SECTION:activity-->
 
 </details>
