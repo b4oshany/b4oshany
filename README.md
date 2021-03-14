@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Summer of Code Intro + Q&A Session with Stephanie Taylor | Jamaica GSoC Meetup](https://www.youtube.com/watch?v=0ZHpA_1vr9s)
 - [Resolving Common WordPress Errors - Sagicor Payment Gateway - Kingston WordPress Meetup Nov 2020](https://www.youtube.com/watch?v=lIMyDzXKzF4)
 - [Meet Joel Dean: Google Developers Group Kingston Lead Organizer and WordPress Engineer](https://www.youtube.com/watch?v=GdFlJh0cltY)
 - [Meet Bianca Welds: Lead Organiser for Kingston WordPress Meetup, Event Host and Digital Innovator](https://www.youtube.com/watch?v=IxP239nZ-d8)
 - [How I became a Tech Entrepreneur | Community Leader for Python Jamaica | MakeBetter | David Bain](https://www.youtube.com/watch?v=hUu7ARJOS3M)
-- [Quality Assurance | Economical Cost of Software Testing in 2020 | Visual Testing Meetup Part 4](https://www.youtube.com/watch?v=Wqopp3KHMTE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
