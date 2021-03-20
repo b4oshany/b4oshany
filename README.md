@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Google Summer of Code: Find a open source project and proposal preparation](https://www.youtube.com/watch?v=YtKd1Ou3w_A)
 - [Tips and Tricks to secure your WordPress Website | Ask Gavin, Cyber Security Specialist](https://www.youtube.com/watch?v=U7tPE5ui9FE)
 - [Google Summer of Code Intro + Q&A Session with Stephanie Taylor | Jamaica GSoC Meetup](https://www.youtube.com/watch?v=0ZHpA_1vr9s)
 - [Resolving Common WordPress Errors - Sagicor Payment Gateway - Kingston WordPress Meetup Nov 2020](https://www.youtube.com/watch?v=lIMyDzXKzF4)
 - [Meet Joel Dean: Google Developers Group Kingston Lead Organizer and WordPress Engineer](https://www.youtube.com/watch?v=GdFlJh0cltY)
+- [Meet Bianca Welds: Lead Organiser for Kingston WordPress Meetup, Event Host and Digital Innovator](https://www.youtube.com/watch?v=IxP239nZ-d8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
