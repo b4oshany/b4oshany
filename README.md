@@ -75,7 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Advice to upcoming tech professionals from Nicholas Kee | Osoobe | Jamaican Developers Community](https://www.youtube.com/watch?v=yA6uBH7oJJA)
+- [Advice to Upcoming Tech Professionals from Nicholas Kee | Osoobe](https://www.youtube.com/watch?v=W3RxlUT2FTg)
 - [Tips and Tricks to secure your WordPress Website | Ask Gavin, Cyber Security Specialist](https://www.youtube.com/watch?v=U7tPE5ui9FE)
 - [Google Summer of Code Intro + Q&A Session with Stephanie Taylor | Jamaica GSoC Meetup](https://www.youtube.com/watch?v=0ZHpA_1vr9s)
 - [Resolving Common WordPress Errors - Sagicor Payment Gateway - Kingston WordPress Meetup Nov 2020](https://www.youtube.com/watch?v=lIMyDzXKzF4)
