@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Remote Work Tips and Tricks | Careers in Tech - Employer Edition | Webinar](https://www.youtube.com/watch?v=7oEpYRX7e4U)
 - [Advice to Upcoming Tech Professionals from Nicholas Kee | Osoobe](https://www.youtube.com/watch?v=W3RxlUT2FTg)
 - [Tips and Tricks to secure your WordPress Website | Ask Gavin, Cyber Security Specialist](https://www.youtube.com/watch?v=U7tPE5ui9FE)
 - [Google Summer of Code Intro + Q&A Session with Stephanie Taylor | Jamaica GSoC Meetup](https://www.youtube.com/watch?v=0ZHpA_1vr9s)
 - [Resolving Common WordPress Errors - Sagicor Payment Gateway - Kingston WordPress Meetup Nov 2020](https://www.youtube.com/watch?v=lIMyDzXKzF4)
-- [Meet Joel Dean: Google Developers Group Kingston Lead Organizer and WordPress Engineer](https://www.youtube.com/watch?v=GdFlJh0cltY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
