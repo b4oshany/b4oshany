@@ -78,7 +78,7 @@
 - [Advice to Upcoming Tech Professionals from Jordanne Elliott | Osoobe](https://www.youtube.com/watch?v=BEVRuuKpckE)
 - [Remote Work Tips and Tricks | Careers in Tech - Employer Edition | Webinar](https://www.youtube.com/watch?v=7oEpYRX7e4U)
 - [Advice to Upcoming Tech Professionals from Nicholas Kee | Osoobe](https://www.youtube.com/watch?v=W3RxlUT2FTg)
-- [Tips and Tricks to secure your WordPress Website | Ask Gavin, Cyber Security Specialist](https://www.youtube.com/watch?v=U7tPE5ui9FE)
+- [WordPress Website Security | Tips and Tricks  | Ask Gavin, Cyber Security Specialist](https://www.youtube.com/watch?v=U7tPE5ui9FE)
 - [Google Summer of Code Intro + Q&A Session with Stephanie Taylor | Jamaica GSoC Meetup](https://www.youtube.com/watch?v=0ZHpA_1vr9s)
 <!-- YOUTUBE:END -->
 
