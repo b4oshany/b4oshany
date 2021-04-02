@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#429](https://github.com/MasoniteFramework/orm/issues/429) in [MasoniteFramework/orm](https://github.com/MasoniteFramework/orm)
-2. ❗️ Opened issue [#431](https://github.com/MasoniteFramework/masonite/issues/431) in [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite)
-3. ❗️ Opened issue [#430](https://github.com/MasoniteFramework/masonite/issues/430) in [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite)
-4. 💪 Opened PR [#17](https://github.com/davidtaylorhq/discourse-telegram-notifications/pull/17) in [davidtaylorhq/discourse-telegram-notifications](https://github.com/davidtaylorhq/discourse-telegram-notifications)
-5. 🎉 Merged PR [#2](https://github.com/JamaicanDevelopers/laravel-userstamps/pull/2) in [JamaicanDevelopers/laravel-userstamps](https://github.com/JamaicanDevelopers/laravel-userstamps)
+1. ❗️ Opened issue [#430](https://github.com/MasoniteFramework/orm/issues/430) in [MasoniteFramework/orm](https://github.com/MasoniteFramework/orm)
+2. ❗️ Opened issue [#429](https://github.com/MasoniteFramework/orm/issues/429) in [MasoniteFramework/orm](https://github.com/MasoniteFramework/orm)
+3. ❗️ Opened issue [#431](https://github.com/MasoniteFramework/masonite/issues/431) in [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite)
+4. ❗️ Opened issue [#430](https://github.com/MasoniteFramework/masonite/issues/430) in [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite)
+5. 💪 Opened PR [#17](https://github.com/davidtaylorhq/discourse-telegram-notifications/pull/17) in [davidtaylorhq/discourse-telegram-notifications](https://github.com/davidtaylorhq/discourse-telegram-notifications)
 <!--END_SECTION:activity-->
 
 </details>
