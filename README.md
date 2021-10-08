@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 💪 Opened PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#1](https://github.com/bastinald/laravel-livewire-forms/pull/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
-4. 💪 Opened PR [#1](https://github.com/Pharaonic/laravel-uploader/pull/1) in [Pharaonic/laravel-uploader](https://github.com/Pharaonic/laravel-uploader)
-5. ❗️ Opened issue [#431](https://github.com/MasoniteFramework/masonite/issues/431) in [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite)
+1. 🗣 Commented on [#1](https://github.com/bastinald/laravel-livewire-forms/issues/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
+2. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 💪 Opened PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 💪 Opened PR [#1](https://github.com/bastinald/laravel-livewire-forms/pull/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
+5. 💪 Opened PR [#1](https://github.com/Pharaonic/laravel-uploader/pull/1) in [Pharaonic/laravel-uploader](https://github.com/Pharaonic/laravel-uploader)
 <!--END_SECTION:activity-->
 
 </details>
