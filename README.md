@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/bastinald/laravel-livewire-forms/issues/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
-2. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 💪 Opened PR [#1](https://github.com/bastinald/laravel-livewire-forms/pull/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
-5. 💪 Opened PR [#1](https://github.com/Pharaonic/laravel-uploader/pull/1) in [Pharaonic/laravel-uploader](https://github.com/Pharaonic/laravel-uploader)
+1. ❗️ Closed issue [#1](https://github.com/unbank/currency-scraper/issues/1) in [unbank/currency-scraper](https://github.com/unbank/currency-scraper)
+2. ❗️ Opened issue [#1](https://github.com/unbank/currency-scraper/issues/1) in [unbank/currency-scraper](https://github.com/unbank/currency-scraper)
+3. 🗣 Commented on [#1](https://github.com/bastinald/laravel-livewire-forms/issues/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
+4. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+5. 💪 Opened PR [#1](https://github.com/osoobe/laravel-utilities/pull/1) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
