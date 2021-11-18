@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image/pull/1) in [JamaicanDevelopers/Laravel-Sail-Docker-Image](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image)
-2. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-utilities/pull/2) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#2](https://github.com/osoobe/laravel-utilities/pull/2) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 🗣 Commented on [#1](https://github.com/bastinald/laravel-livewire-forms/issues/1) in [bastinald/laravel-livewire-forms](https://github.com/bastinald/laravel-livewire-forms)
-5. 💪 Opened PR [#2](https://github.com/whthT/intro-step/pull/2) in [whthT/intro-step](https://github.com/whthT/intro-step)
+1. 🎉 Merged PR [#1](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image/pull/1) in [JamaicanDevelopers/Laravel-Sail-Docker-Image](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image)
+2. 💪 Opened PR [#2](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image/pull/2) in [JamaicanDevelopers/Laravel-Sail-Docker-Image](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image)
+3. 💪 Opened PR [#1](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image/pull/1) in [JamaicanDevelopers/Laravel-Sail-Docker-Image](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image)
+4. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-utilities/pull/2) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+5. 💪 Opened PR [#2](https://github.com/osoobe/laravel-utilities/pull/2) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
