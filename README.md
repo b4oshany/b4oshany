@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/osoobe/laravel-utilities/pull/4) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 💪 Opened PR [#4](https://github.com/osoobe/laravel-utilities/pull/4) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 🎉 Merged PR [#3](https://github.com/osoobe/laravel-utilities/pull/3) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 💪 Opened PR [#3](https://github.com/osoobe/laravel-utilities/pull/3) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-5. 🎉 Merged PR [#1](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image/pull/1) in [JamaicanDevelopers/Laravel-Sail-Docker-Image](https://github.com/JamaicanDevelopers/Laravel-Sail-Docker-Image)
+1. 🎉 Merged PR [#5](https://github.com/osoobe/laravel-utilities/pull/5) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+2. 💪 Opened PR [#5](https://github.com/osoobe/laravel-utilities/pull/5) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 🎉 Merged PR [#4](https://github.com/osoobe/laravel-utilities/pull/4) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 💪 Opened PR [#4](https://github.com/osoobe/laravel-utilities/pull/4) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+5. 🎉 Merged PR [#3](https://github.com/osoobe/laravel-utilities/pull/3) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
