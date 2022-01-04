@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 💪 Opened PR [#1](https://github.com/bakerkretzmar/zttp/pull/1) in [bakerkretzmar/zttp](https://github.com/bakerkretzmar/zttp)
-3. 💪 Opened PR [#57](https://github.com/AidynMakhataev/laravel-surveyjs/pull/57) in [AidynMakhataev/laravel-surveyjs](https://github.com/AidynMakhataev/laravel-surveyjs)
-4. 🎉 Merged PR [#7](https://github.com/osoobe/laravel-utilities/pull/7) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-5. 💪 Opened PR [#7](https://github.com/osoobe/laravel-utilities/pull/7) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+1. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+2. 💪 Opened PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 💪 Opened PR [#1](https://github.com/bakerkretzmar/zttp/pull/1) in [bakerkretzmar/zttp](https://github.com/bakerkretzmar/zttp)
+4. 💪 Opened PR [#57](https://github.com/AidynMakhataev/laravel-surveyjs/pull/57) in [AidynMakhataev/laravel-surveyjs](https://github.com/AidynMakhataev/laravel-surveyjs)
+5. 🎉 Merged PR [#7](https://github.com/osoobe/laravel-utilities/pull/7) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
