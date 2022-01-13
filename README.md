@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Successfully Managing Multiple Projects as a Freelancer | WordPress Jamaica](https://www.youtube.com/watch?v=Aid6IeBeyFA)
 - [Google Summer of Code: Find a open source project and proposal preparation](https://www.youtube.com/watch?v=YtKd1Ou3w_A)
 - [Advice to Upcoming Tech Professionals from Jordanne Elliott | Osoobe](https://www.youtube.com/watch?v=BEVRuuKpckE)
 - [Remote Work Tips and Tricks | Careers in Tech - Employer Edition | Webinar](https://www.youtube.com/watch?v=7oEpYRX7e4U)
 - [Advice to Upcoming Tech Professionals from Nicholas Kee | Osoobe](https://www.youtube.com/watch?v=W3RxlUT2FTg)
-- [WordPress Website Security | Tips and Tricks  | Ask Gavin, Cyber Security Specialist](https://www.youtube.com/watch?v=U7tPE5ui9FE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
