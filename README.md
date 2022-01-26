@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Successfully Managing Multiple Projects as a Freelancer | WordPress Jamaica](https://www.youtube.com/watch?v=Aid6IeBeyFA)
 - [Open Source Internships 2022](https://www.youtube.com/watch?v=6V97CZn8X_Q)
 - [Interested in UI/UX Design? Need a roadmap for breaking into the field?](https://www.youtube.com/watch?v=yCK9pKYpnMY)
 - [Google Summer of Code: Find a open source project and proposal preparation](https://www.youtube.com/watch?v=YtKd1Ou3w_A)
 - [Advice to Upcoming Tech Professionals from Jordanne Elliott | Osoobe](https://www.youtube.com/watch?v=BEVRuuKpckE)
-- [Remote Work Tips and Tricks | Careers in Tech - Employer Edition | Webinar](https://www.youtube.com/watch?v=7oEpYRX7e4U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
