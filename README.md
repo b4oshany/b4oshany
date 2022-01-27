@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 💪 Opened PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#1](https://github.com/bakerkretzmar/zttp/pull/1) in [bakerkretzmar/zttp](https://github.com/bakerkretzmar/zttp)
-4. 💪 Opened PR [#57](https://github.com/AidynMakhataev/laravel-surveyjs/pull/57) in [AidynMakhataev/laravel-surveyjs](https://github.com/AidynMakhataev/laravel-surveyjs)
-5. 🎉 Merged PR [#7](https://github.com/osoobe/laravel-utilities/pull/7) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+1. 💪 Opened PR [#2](https://github.com/dashezup/github-webhook-to-telegram/pull/2) in [dashezup/github-webhook-to-telegram](https://github.com/dashezup/github-webhook-to-telegram)
+2. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 💪 Opened PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 💪 Opened PR [#1](https://github.com/bakerkretzmar/zttp/pull/1) in [bakerkretzmar/zttp](https://github.com/bakerkretzmar/zttp)
+5. 💪 Opened PR [#57](https://github.com/AidynMakhataev/laravel-surveyjs/pull/57) in [AidynMakhataev/laravel-surveyjs](https://github.com/AidynMakhataev/laravel-surveyjs)
 <!--END_SECTION:activity-->
 
 </details>
