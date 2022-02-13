@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-traits/pull/1) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
-2. 💪 Opened PR [#1](https://github.com/osoobe/laravel-traits/pull/1) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
-3. 💪 Opened PR [#2](https://github.com/dashezup/github-webhook-to-telegram/pull/2) in [dashezup/github-webhook-to-telegram](https://github.com/dashezup/github-webhook-to-telegram)
-4. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-5. 💪 Opened PR [#8](https://github.com/osoobe/laravel-utilities/pull/8) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+1. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+2. 💪 Opened PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+3. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-traits/pull/1) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+4. 💪 Opened PR [#1](https://github.com/osoobe/laravel-traits/pull/1) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+5. 💪 Opened PR [#2](https://github.com/dashezup/github-webhook-to-telegram/pull/2) in [dashezup/github-webhook-to-telegram](https://github.com/dashezup/github-webhook-to-telegram)
 <!--END_SECTION:activity-->
 
 </details>
