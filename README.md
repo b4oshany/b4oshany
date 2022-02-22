@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Artificial Intelligence  | CTC February Career Day](https://www.youtube.com/watch?v=kHfxxWh-k8M)
 - [TechGen | Flutter | Mobile App Development | Demo Day 5](https://www.youtube.com/watch?v=Bu4mimYpla0)
 - [Successfully Managing Multiple Projects as a Freelancer | WordPress Jamaica](https://www.youtube.com/watch?v=Aid6IeBeyFA)
 - [Open Source Internships 2022](https://www.youtube.com/watch?v=6V97CZn8X_Q)
 - [Interested in UI/UX Design? Need a roadmap for breaking into the field?](https://www.youtube.com/watch?v=yCK9pKYpnMY)
-- [Google Summer of Code: Find a open source project and proposal preparation](https://www.youtube.com/watch?v=YtKd1Ou3w_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
