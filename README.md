@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=T56bHTDR9rk)
 - [GSoC 2022: Find &amp; Choose Open Source Projects to Contribute to](https://www.youtube.com/watch?v=ta4vm8NiGYc)
 - [Demo Day #6 | SmartID - School Management System](https://www.youtube.com/watch?v=lBpdrZaD_Vc)
 - [Artificial Intelligence  | CTC February Career Day](https://www.youtube.com/watch?v=kHfxxWh-k8M)
 - [TechGen | Flutter | Mobile App Development | Demo Day 5](https://www.youtube.com/watch?v=Bu4mimYpla0)
-- [Successfully Managing Multiple Projects as a Freelancer | WordPress Jamaica](https://www.youtube.com/watch?v=Aid6IeBeyFA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
