@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting Ready for Open Data Day 2022](https://www.youtube.com/watch?v=mI5RlVge76o)
 - [Google Summer of Code 2022 Intro + Q&amp;A Session with Stephanie Taylor](https://www.youtube.com/watch?v=E70-tASIACY)
 - [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=T56bHTDR9rk)
 - [GSoC 2022: Find &amp; Choose Open Source Projects to Contribute to](https://www.youtube.com/watch?v=ta4vm8NiGYc)
 - [Demo Day #6 | SmartID - School Management System](https://www.youtube.com/watch?v=lBpdrZaD_Vc)
-- [Artificial Intelligence  | CTC February Career Day](https://www.youtube.com/watch?v=kHfxxWh-k8M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
