@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=T56bHTDR9rk)
 - [Open Data Day - Today at 1 p.m. - Where can you find Open Data?  https://bit.ly/3ts8TWN](https://www.youtube.com/watch?v=0dblvqY3nSU)
 - [Open Data Day - Today at 1 p.m. - Who uses Open Source?  https://bit.ly/3ts8TWN](https://www.youtube.com/watch?v=KTvJhz2Gp10)
 - [Open Data Day - Today at 1 p.m. - Use of Open Data   https://bit.ly/3ts8TWN](https://www.youtube.com/watch?v=Edr6_6Mk018)
 - [Jamaica Open Data Day - Today at 1 p.m. - What is Open Data?  https://bit.ly/3ts8TWN](https://www.youtube.com/watch?v=Ie_TKFXJLvY)
-- [Jamaica Open Data Day - Today at 1 pm.egister to learn more about open data](https://www.youtube.com/watch?v=qKOU3t5_xEQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
