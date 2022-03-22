@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#273](https://github.com/spatie/laravel-multitenancy/issues/273) in [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy)
-2. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
-3. 💪 Opened PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
-4. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-traits/pull/1) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
-5. 💪 Opened PR [#1](https://github.com/osoobe/laravel-traits/pull/1) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+1. 💪 Opened PR [#41608](https://github.com/laravel/framework/pull/41608) in [laravel/framework](https://github.com/laravel/framework)
+2. 💪 Opened PR [#12](https://github.com/illuminate/console/pull/12) in [illuminate/console](https://github.com/illuminate/console)
+3. 🗣 Commented on [#273](https://github.com/spatie/laravel-multitenancy/issues/273) in [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy)
+4. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+5. 💪 Opened PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
 <!--END_SECTION:activity-->
 
 </details>
