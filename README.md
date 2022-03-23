@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Happening Now: JDC Demo Day featuring John Gordon |  Freight Forward](https://www.youtube.com/watch?v=v7YtOkZJK2o)
 - [IT Business Development | Career Day](https://www.youtube.com/watch?v=SNFK0iu50bQ)
 - [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=rwcMnzWMNtQ)
 - [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=T56bHTDR9rk)
 - [Open Data Day - Today at 1 p.m. - Where can you find Open Data?  https://bit.ly/3ts8TWN](https://www.youtube.com/watch?v=0dblvqY3nSU)
-- [Open Data Day - Today at 1 p.m. - Who uses Open Source?  https://bit.ly/3ts8TWN](https://www.youtube.com/watch?v=KTvJhz2Gp10)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
