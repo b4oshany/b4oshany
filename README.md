@@ -75,7 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Happening Now: JDC Demo Day featuring John Gordon |  Freight Forward](https://www.youtube.com/watch?v=v7YtOkZJK2o)
+- [Demo Day featuring John Gordon |  Freight Forward](https://www.youtube.com/watch?v=v7YtOkZJK2o)
 - [IT Business Development | Career Day](https://www.youtube.com/watch?v=SNFK0iu50bQ)
 - [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=rwcMnzWMNtQ)
 - [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=T56bHTDR9rk)
