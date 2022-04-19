@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Game Development  Career Day](https://www.youtube.com/watch?v=jvq7F5pvOlk)
 - [Advice to Upcoming Tech Professionals from Lateefah Smellie | Osoobe](https://www.youtube.com/watch?v=rbGjqlQOTF8)
 - [Demo Day featuring John Gordon |  Freight Forward](https://www.youtube.com/watch?v=v7YtOkZJK2o)
 - [IT Business Development | Career Day](https://www.youtube.com/watch?v=SNFK0iu50bQ)
 - [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=rwcMnzWMNtQ)
-- [Jamaica Open Data Day 2022](https://www.youtube.com/watch?v=T56bHTDR9rk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
