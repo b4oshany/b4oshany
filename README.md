@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#344](https://github.com/Power-Components/livewire-powergrid/pull/344) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
-2. 💪 Opened PR [#41608](https://github.com/laravel/framework/pull/41608) in [laravel/framework](https://github.com/laravel/framework)
-3. 💪 Opened PR [#12](https://github.com/illuminate/console/pull/12) in [illuminate/console](https://github.com/illuminate/console)
-4. 🗣 Commented on [#273](https://github.com/spatie/laravel-multitenancy/issues/273) in [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy)
-5. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-traits/pull/2) in [osoobe/laravel-traits](https://github.com/osoobe/laravel-traits)
+1. 🎉 Merged PR [#1](https://github.com/ctechc/wpforms-webhook-templates/pull/1) in [ctechc/wpforms-webhook-templates](https://github.com/ctechc/wpforms-webhook-templates)
+2. 💪 Opened PR [#1](https://github.com/ctechc/wpforms-webhook-templates/pull/1) in [ctechc/wpforms-webhook-templates](https://github.com/ctechc/wpforms-webhook-templates)
+3. 💪 Opened PR [#344](https://github.com/Power-Components/livewire-powergrid/pull/344) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+4. 💪 Opened PR [#41608](https://github.com/laravel/framework/pull/41608) in [laravel/framework](https://github.com/laravel/framework)
+5. 💪 Opened PR [#12](https://github.com/illuminate/console/pull/12) in [illuminate/console](https://github.com/illuminate/console)
 <!--END_SECTION:activity-->
 
 </details>
