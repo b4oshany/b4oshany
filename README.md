@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Data Science | Career Day with Chennel Williams](https://www.youtube.com/watch?v=esC1la-kclw)
 - [Real Estate Ja Website and Dopanime App | Reviews | Demo Day 2](https://www.youtube.com/watch?v=HBCsZRN2dHg)
 - [Autoscribber by Colin Campbell - Demo Day 8 |  Jamaican Developers Community](https://www.youtube.com/watch?v=vHPv9Akc5vc)
 - [Game Development  Career Day](https://www.youtube.com/watch?v=jvq7F5pvOlk)
 - [Advice to Upcoming Tech Professionals from Lateefah Smellie | Osoobe](https://www.youtube.com/watch?v=rbGjqlQOTF8)
+- [Demo Day featuring John Gordon |  Freight Forward](https://www.youtube.com/watch?v=v7YtOkZJK2o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
