@@ -104,9 +104,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ctechc/wpforms-webhook-templates/pull/1) in [ctechc/wpforms-webhook-templates](https://github.com/ctechc/wpforms-webhook-templates)
-2. 💪 Opened PR [#1](https://github.com/ctechc/wpforms-webhook-templates/pull/1) in [ctechc/wpforms-webhook-templates](https://github.com/ctechc/wpforms-webhook-templates)
-3. 💪 Opened PR [#344](https://github.com/Power-Components/livewire-powergrid/pull/344) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+1. ❗️ Opened issue [#2107](https://github.com/freescout-helpdesk/freescout/issues/2107) in [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)
+2. 🎉 Merged PR [#1](https://github.com/ctechc/wpforms-webhook-templates/pull/1) in [ctechc/wpforms-webhook-templates](https://github.com/ctechc/wpforms-webhook-templates)
+3. 💪 Opened PR [#1](https://github.com/ctechc/wpforms-webhook-templates/pull/1) in [ctechc/wpforms-webhook-templates](https://github.com/ctechc/wpforms-webhook-templates)
 4. 💪 Opened PR [#41608](https://github.com/laravel/framework/pull/41608) in [laravel/framework](https://github.com/laravel/framework)
 5. 💪 Opened PR [#12](https://github.com/illuminate/console/pull/12) in [illuminate/console](https://github.com/illuminate/console)
 <!--END_SECTION:activity-->
