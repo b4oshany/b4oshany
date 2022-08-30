@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Database Systems Management | Career Day with Emar Morrison](https://www.youtube.com/watch?v=aL9UDUyOkqs)
 - [Jamaica Artificial Intelligence Meetup](https://www.youtube.com/watch?v=hMUo297Yd_A)
 - [Livewire | GeoData | Spacial Data Architect | Rhys Stewarts | Demo Day 10](https://www.youtube.com/watch?v=_jzI-sgQ_VU)
 - [Demo Day with Marlon Minott](https://www.youtube.com/watch?v=rVtB5JqZBnU)
 - [Data Science | Career Day with Chennel Williams](https://www.youtube.com/watch?v=esC1la-kclw)
-- [Real Estate Ja Website and Dopanime App | Reviews | Demo Day 2](https://www.youtube.com/watch?v=HBCsZRN2dHg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
