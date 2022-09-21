@@ -75,7 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Blockchain | Career Day](https://www.youtube.com/watch?v=3BYbsw-2gz4)
+- [Blockchain | Career Day with Trevor Forrest](https://www.youtube.com/watch?v=3BYbsw-2gz4)
 - [School Management System Demo by Jason Clarke](https://www.youtube.com/watch?v=rFrBqJWagUU)
 - [Database Systems Management | Career Day with Emar Morrison](https://www.youtube.com/watch?v=aL9UDUyOkqs)
 - [Jamaica Artificial Intelligence Meetup](https://www.youtube.com/watch?v=hMUo297Yd_A)
