@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Open Source Demo Day | Web Technologies | Oshane Bailey](https://www.youtube.com/watch?v=MgxXMuOWaM0)
 - [Blockchain | Career Day with Trevor Forrest](https://www.youtube.com/watch?v=3BYbsw-2gz4)
 - [School Management System Demo by Jason Clarke](https://www.youtube.com/watch?v=rFrBqJWagUU)
 - [Database Systems Management | Career Day with Emar Morrison](https://www.youtube.com/watch?v=aL9UDUyOkqs)
 - [Jamaica Artificial Intelligence Meetup](https://www.youtube.com/watch?v=hMUo297Yd_A)
-- [Livewire | GeoData | Spacial Data Architect | Rhys Stewarts | Demo Day 10](https://www.youtube.com/watch?v=_jzI-sgQ_VU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
