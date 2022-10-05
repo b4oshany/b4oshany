@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to setup Portainer and Nginx Proxxy - Part 1](https://www.youtube.com/watch?v=ZBshXNsnTZA)
 - [Open Source Demo Day | Web Technologies | Oshane Bailey](https://www.youtube.com/watch?v=MgxXMuOWaM0)
 - [Blockchain | Career Day with Trevor Forrest](https://www.youtube.com/watch?v=3BYbsw-2gz4)
 - [School Management System Demo by Jason Clarke](https://www.youtube.com/watch?v=rFrBqJWagUU)
 - [Database Systems Management | Career Day with Emar Morrison](https://www.youtube.com/watch?v=aL9UDUyOkqs)
-- [Jamaica Artificial Intelligence Meetup](https://www.youtube.com/watch?v=hMUo297Yd_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
