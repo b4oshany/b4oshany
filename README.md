@@ -75,7 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to setup Portainer and Nginx Proxy - Part 1](https://www.youtube.com/watch?v=ZkujKZoUFfU)
+- [How to Setup a Portainer and Nginx Proxy for Security and Performance](https://www.youtube.com/watch?v=ZkujKZoUFfU)
 - [Open Source Demo Day | Web Technologies | Oshane Bailey](https://www.youtube.com/watch?v=MgxXMuOWaM0)
 - [Blockchain | Career Day with Trevor Forrest](https://www.youtube.com/watch?v=3BYbsw-2gz4)
 - [School Management System Demo by Jason Clarke](https://www.youtube.com/watch?v=rFrBqJWagUU)
