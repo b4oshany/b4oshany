@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introducing AI and ML This Machine Will Change the Way You Work | Matthew Stone | JAIA](https://www.youtube.com/watch?v=5jl61GrX9kY)
 - [How to become an AI Research | Matthew Stones | Jamaica Artificial Intelligence Association](https://www.youtube.com/watch?v=vzKI_yZYoyQ)
 - [How to Setup a Portainer and Nginx Proxy for Security and Performance](https://www.youtube.com/watch?v=ZkujKZoUFfU)
 - [Open Source Demo Day | Web Technologies | Oshane Bailey](https://www.youtube.com/watch?v=MgxXMuOWaM0)
 - [Blockchain | Career Day with Trevor Forrest](https://www.youtube.com/watch?v=3BYbsw-2gz4)
-- [School Management System Demo by Jason Clarke](https://www.youtube.com/watch?v=rFrBqJWagUU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
