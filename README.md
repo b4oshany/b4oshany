@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Demystifying the Developer Interview Process | Giovanni Dappa HoSang | DevC Kingston AMA](https://www.youtube.com/watch?v=r83yZtorbGw)
 - [Artificial Intelligence Will Change the Way You Work | Matthew Stone | JAIA](https://www.youtube.com/watch?v=5jl61GrX9kY)
 - [How to become an AI Research | Matthew Stones | Jamaica Artificial Intelligence Association](https://www.youtube.com/watch?v=vzKI_yZYoyQ)
 - [How to Setup a Portainer and Nginx Proxy for Security and Performance](https://www.youtube.com/watch?v=ZkujKZoUFfU)
 - [Open Source Demo Day | Web Technologies | Oshane Bailey](https://www.youtube.com/watch?v=MgxXMuOWaM0)
-- [Blockchain | Career Day with Trevor Forrest](https://www.youtube.com/watch?v=3BYbsw-2gz4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
