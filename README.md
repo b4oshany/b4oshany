@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I.T. Support | Career Day | Michael Kerr](https://www.youtube.com/watch?v=Fu0Bc_KLVdM)
 - [How to Gain Global Visibility as a Professional in Tech](https://www.youtube.com/watch?v=Ei5z9WAI1T0)
 - [Demystifying the Developer Interview Process | Giovanni Dappa HoSang | DevC Kingston AMA](https://www.youtube.com/watch?v=r83yZtorbGw)
 - [Artificial Intelligence Will Change the Way You Work | Matthew Stone | JAIA](https://www.youtube.com/watch?v=5jl61GrX9kY)
 - [How to become an AI Research | Matthew Stones | Jamaica Artificial Intelligence Association](https://www.youtube.com/watch?v=vzKI_yZYoyQ)
-- [How to Setup a Portainer and Nginx Proxy for Security and Performance](https://www.youtube.com/watch?v=ZkujKZoUFfU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
