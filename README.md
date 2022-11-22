@@ -104,9 +104,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
-2. 🎉 Merged PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
-3. ❗️ Opened issue [#2124](https://github.com/freescout-helpdesk/freescout/issues/2124) in [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)
+1. 💪 Opened PR [#1](https://github.com/JamDevCo/Mailgun-bulk-email/pull/1) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+2. 💪 Opened PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
+3. 🎉 Merged PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
 4. 🗣 Commented on [#2107](https://github.com/freescout-helpdesk/freescout/issues/2107) in [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)
 5. ❗️ Opened issue [#2107](https://github.com/freescout-helpdesk/freescout/issues/2107) in [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)
 <!--END_SECTION:activity-->
