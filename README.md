@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JamDevCo/Mailgun-bulk-email/pull/2) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-2. 💪 Opened PR [#1](https://github.com/JamDevCo/Mailgun-bulk-email/pull/1) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-3. 💪 Opened PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
-4. 🎉 Merged PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
-5. ❗️ Opened issue [#2107](https://github.com/freescout-helpdesk/freescout/issues/2107) in [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)
+1. 🎉 Merged PR [#1](https://github.com/caribtechco/laravel-jetstream-starter-kit/pull/1) in [caribtechco/laravel-jetstream-starter-kit](https://github.com/caribtechco/laravel-jetstream-starter-kit)
+2. 💪 Opened PR [#1](https://github.com/caribtechco/laravel-jetstream-starter-kit/pull/1) in [caribtechco/laravel-jetstream-starter-kit](https://github.com/caribtechco/laravel-jetstream-starter-kit)
+3. 🎉 Merged PR [#2](https://github.com/JamDevCo/Mailgun-bulk-email/pull/2) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+4. 💪 Opened PR [#1](https://github.com/JamDevCo/Mailgun-bulk-email/pull/1) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+5. 💪 Opened PR [#1](https://github.com/ctechc/portainer-nginx/pull/1) in [ctechc/portainer-nginx](https://github.com/ctechc/portainer-nginx)
 <!--END_SECTION:activity-->
 
 </details>
