@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JamDevCo/Mailgun-bulk-email/pull/3) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-2. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-livewire-forms/pull/1) in [osoobe/laravel-livewire-forms](https://github.com/osoobe/laravel-livewire-forms)
-3. 💪 Opened PR [#1](https://github.com/osoobe/laravel-livewire-forms/pull/1) in [osoobe/laravel-livewire-forms](https://github.com/osoobe/laravel-livewire-forms)
-4. 🎉 Merged PR [#1](https://github.com/caribtechco/laravel-jetstream-starter-kit/pull/1) in [caribtechco/laravel-jetstream-starter-kit](https://github.com/caribtechco/laravel-jetstream-starter-kit)
-5. 💪 Opened PR [#1](https://github.com/caribtechco/laravel-jetstream-starter-kit/pull/1) in [caribtechco/laravel-jetstream-starter-kit](https://github.com/caribtechco/laravel-jetstream-starter-kit)
+1. ❗️ Opened issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
+2. 🎉 Merged PR [#3](https://github.com/JamDevCo/Mailgun-bulk-email/pull/3) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+3. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-livewire-forms/pull/1) in [osoobe/laravel-livewire-forms](https://github.com/osoobe/laravel-livewire-forms)
+4. 💪 Opened PR [#1](https://github.com/osoobe/laravel-livewire-forms/pull/1) in [osoobe/laravel-livewire-forms](https://github.com/osoobe/laravel-livewire-forms)
+5. 🎉 Merged PR [#1](https://github.com/caribtechco/laravel-jetstream-starter-kit/pull/1) in [caribtechco/laravel-jetstream-starter-kit](https://github.com/caribtechco/laravel-jetstream-starter-kit)
 <!--END_SECTION:activity-->
 
 </details>
