@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#445](https://github.com/spatie/laravel-tags/issues/445) in [spatie/laravel-tags](https://github.com/spatie/laravel-tags)
-2. ❗️ Opened issue [#445](https://github.com/spatie/laravel-tags/issues/445) in [spatie/laravel-tags](https://github.com/spatie/laravel-tags)
-3. ❗️ Opened issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
-4. 🎉 Merged PR [#3](https://github.com/JamDevCo/Mailgun-bulk-email/pull/3) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-5. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-livewire-forms/pull/1) in [osoobe/laravel-livewire-forms](https://github.com/osoobe/laravel-livewire-forms)
+1. ❗️ Closed issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
+2. 🗣 Commented on [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
+3. 🗣 Commented on [#445](https://github.com/spatie/laravel-tags/issues/445) in [spatie/laravel-tags](https://github.com/spatie/laravel-tags)
+4. ❗️ Opened issue [#445](https://github.com/spatie/laravel-tags/issues/445) in [spatie/laravel-tags](https://github.com/spatie/laravel-tags)
+5. ❗️ Opened issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
 <!--END_SECTION:activity-->
 
 </details>
