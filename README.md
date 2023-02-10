@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/JamDevCo/Mailgun-bulk-email/pull/4) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-2. ❗️ Closed issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
-3. 🗣 Commented on [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
-4. 🗣 Commented on [#445](https://github.com/spatie/laravel-tags/issues/445) in [spatie/laravel-tags](https://github.com/spatie/laravel-tags)
-5. ❗️ Opened issue [#445](https://github.com/spatie/laravel-tags/issues/445) in [spatie/laravel-tags](https://github.com/spatie/laravel-tags)
+1. 🎉 Merged PR [#5](https://github.com/JamDevCo/Mailgun-bulk-email/pull/5) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+2. 💪 Opened PR [#5](https://github.com/JamDevCo/Mailgun-bulk-email/pull/5) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+3. 🎉 Merged PR [#4](https://github.com/JamDevCo/Mailgun-bulk-email/pull/4) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
+4. ❗️ Closed issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
+5. 🗣 Commented on [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
 <!--END_SECTION:activity-->
 
 </details>
