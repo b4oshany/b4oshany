@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#324](https://github.com/baptisteArno/typebot.io/issues/324) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
-2. 🎉 Merged PR [#5](https://github.com/JamDevCo/Mailgun-bulk-email/pull/5) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-3. 💪 Opened PR [#5](https://github.com/JamDevCo/Mailgun-bulk-email/pull/5) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-4. 🎉 Merged PR [#4](https://github.com/JamDevCo/Mailgun-bulk-email/pull/4) in [JamDevCo/Mailgun-bulk-email](https://github.com/JamDevCo/Mailgun-bulk-email)
-5. ❗️ Closed issue [#292](https://github.com/baptisteArno/typebot.io/issues/292) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
+1. 🗣 Commented on [#284](https://github.com/Power-Components/livewire-powergrid/issues/284) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+2. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+3. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+4. ❗️ Opened issue [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+5. ❗️ Opened issue [#324](https://github.com/baptisteArno/typebot.io/issues/324) in [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
 <!--END_SECTION:activity-->
 
 </details>
