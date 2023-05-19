@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev Destination: Unveiling the Secrets of Successful Software Development](https://www.youtube.com/watch?v=LcvTF9X5iGI)
 - [Interested in DevOps?  Everything you know about DevOps Jobs | Career Day](https://www.youtube.com/watch?v=V1CjoBJE1h4)
 - [Flutter Crash Course #1:  Learn App Development in Record Time!](https://www.youtube.com/watch?v=yRLTk3lMK6U)
 - [Predict Market Price Movements using AI and Data Science | Demo Day | Sammarieo Brown](https://www.youtube.com/watch?v=jZEF3FYicj0)
 - [IT Support Duties You Should Know: Career Day with Micheal Kerr](https://www.youtube.com/watch?v=Fu0Bc_KLVdM)
-- [How to Gain Global Visibility as a Professional in Tech](https://www.youtube.com/watch?v=Ei5z9WAI1T0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
