@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
-2. 🗣 Commented on [#284](https://github.com/Power-Components/livewire-powergrid/issues/284) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
-3. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+1. 🚀 Published release [v1.0.0](https://github.com/v1.0.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+3. 🗣 Commented on [#284](https://github.com/Power-Components/livewire-powergrid/issues/284) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
 4. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
-5. ❗ Opened issue [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+5. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
 <!--END_SECTION:activity-->
 
 </details>
