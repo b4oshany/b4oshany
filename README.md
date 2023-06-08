@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Harnessing Tech for the Oceans: World Ocean Day 2023](https://www.youtube.com/watch?v=04CCYa-llmU)
 - [Flutter Crash Course #1](https://www.youtube.com/watch?v=iMQl59AOTvw)
 - [Light Bill Tracker App | ArtifactsPro App | Demo Day 1](https://www.youtube.com/watch?v=Xa9we0X2m94)
 - [Dev Destination: Unveiling the Secrets of Successful Software Development](https://www.youtube.com/watch?v=LcvTF9X5iGI)
 - [Interested in DevOps?  Everything you know about DevOps Jobs | Career Day](https://www.youtube.com/watch?v=V1CjoBJE1h4)
-- [Predict Market Price Movements using AI and Data Science | Demo Day | Sammarieo Brown](https://www.youtube.com/watch?v=jZEF3FYicj0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
