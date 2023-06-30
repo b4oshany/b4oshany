@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/osoobe/laravel-utilities/pull/9) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 🎉 Merged PR [#2](https://github.com/unbank/unbank-kyckglobal/pull/2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 🔒 Closed issue [#1](https://github.com/unbank/unbank-kyckglobal/issues/1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 🚀 Published release [v1.0.0](https://github.com/v1.0.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🗣 Commented on [#886](https://github.com/Power-Components/livewire-powergrid/issues/886) in [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid)
+1. 🎉 Merged PR [#3](https://github.com/unbank/unbank-kyckglobal/pull/3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#9](https://github.com/osoobe/laravel-utilities/pull/9) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 🎉 Merged PR [#2](https://github.com/unbank/unbank-kyckglobal/pull/2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 🔒 Closed issue [#1](https://github.com/unbank/unbank-kyckglobal/issues/1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 🚀 Published release [v1.0.0](https://github.com/v1.0.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
