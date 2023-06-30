@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/unbank/unbank-kyckglobal/pull/3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-2. 🎉 Merged PR [#9](https://github.com/osoobe/laravel-utilities/pull/9) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 🎉 Merged PR [#2](https://github.com/unbank/unbank-kyckglobal/pull/2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 🔒 Closed issue [#1](https://github.com/unbank/unbank-kyckglobal/issues/1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🚀 Published release [v1.0.0](https://github.com/v1.0.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🚀 Published release [ACH](https://github.com/ACH) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#3](https://github.com/unbank/unbank-kyckglobal/pull/3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 🎉 Merged PR [#9](https://github.com/osoobe/laravel-utilities/pull/9) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 🎉 Merged PR [#2](https://github.com/unbank/unbank-kyckglobal/pull/2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 🔒 Closed issue [#1](https://github.com/unbank/unbank-kyckglobal/issues/1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
