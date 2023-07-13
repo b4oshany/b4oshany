@@ -104,8 +104,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Pre-phone-number formatter](https://github.com/Pre-phone-number formatter) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 🚀 Published release [ACH](https://github.com/ACH) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🚀 Published release [Pre-phone-number formatter](https://github.com/osoobe/laravel-utilities/releases/tag/1.0.3) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+2. 🚀 Published release [ACH](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 3. 🎉 Merged PR [#3](https://github.com/unbank/unbank-kyckglobal/pull/3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 4. 🎉 Merged PR [#9](https://github.com/osoobe/laravel-utilities/pull/9) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 5. 🎉 Merged PR [#2](https://github.com/unbank/unbank-kyckglobal/pull/2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
