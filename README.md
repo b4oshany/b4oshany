@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Patch for kyck reference id](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-2. 🎉 Merged PR [#4](https://github.com/unbank/unbank-kyckglobal/pull/4) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 🚀 Published release [Kyck Reference Fix](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 💪 Opened PR [#4](https://github.com/unbank/unbank-kyckglobal/pull/4) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🚀 Published release [Pre-phone-number formatter](https://github.com/osoobe/laravel-utilities/releases/tag/1.0.3) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+1. 🚀 Published release [Ach Patch](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#5](https://github.com/unbank/unbank-kyckglobal/pull/5) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 💪 Opened PR [#5](https://github.com/unbank/unbank-kyckglobal/pull/5) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 🚀 Published release [Patch for kyck reference id](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 🎉 Merged PR [#4](https://github.com/unbank/unbank-kyckglobal/pull/4) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
