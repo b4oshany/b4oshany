@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Tools Unveiled: Revolutionizing Agricultural Image Classification](https://www.youtube.com/watch?v=1imCKa9cWtI)
 - [Career Day: #19 - Software Development](https://www.youtube.com/watch?v=K_Eq6OVYxHU)
 - [Flutter Crash Course #2](https://www.youtube.com/watch?v=ee3Lu8X-Wjg)
 - [Harnessing Tech for the Oceans: World Ocean Day 2023](https://www.youtube.com/watch?v=04CCYa-llmU)
 - [Flutter Crash Course #1](https://www.youtube.com/watch?v=iMQl59AOTvw)
-- [Light Bill Tracker App | ArtifactsPro App | Demo Day 1](https://www.youtube.com/watch?v=Xa9we0X2m94)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
