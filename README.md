@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Tools Unveiled: Advanced Image Processing](https://www.youtube.com/watch?v=pSoJR95OYX8)
 - [AI Tools Unveiled: The GitHub of AI](https://www.youtube.com/watch?v=7PZiDbqBpXs)
 - [AI Tools Unveiled: Data Science and ML in Financial Trading](https://www.youtube.com/watch?v=0Za7_QfdNmU)
 - [AI Tools Unveiled: Revolutionizing Agricultural Image Classification](https://www.youtube.com/watch?v=1imCKa9cWtI)
 - [Career Day: #19 - Software Development](https://www.youtube.com/watch?v=K_Eq6OVYxHU)
-- [Flutter Crash Course #2](https://www.youtube.com/watch?v=ee3Lu8X-Wjg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
