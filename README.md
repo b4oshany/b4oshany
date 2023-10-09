@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2107](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2107#issuecomment-1636749002) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-2. 🚀 Published release [Ach Patch](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 🎉 Merged PR [#5](https://github.com/unbank/unbank-kyckglobal/pull/5) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 💪 Opened PR [#5](https://github.com/unbank/unbank-kyckglobal/pull/5) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🚀 Published release [Patch for kyck reference id](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🚀 Published release [Kyck API Update](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#6](https://github.com/unbank/unbank-kyckglobal/pull/6) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 💪 Opened PR [#6](https://github.com/unbank/unbank-kyckglobal/pull/6) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 🗣 Commented on [#2107](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2107#issuecomment-1636749002) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+5. 🚀 Published release [Ach Patch](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.1.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
