@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Become a Web Developer: A Guide to Choosing the Right Path](https://www.youtube.com/watch?v=o_Ac7sB22v8)
 - [Exploring Animation | Career Day: #21 - Careers in Tech](https://www.youtube.com/watch?v=MttuNFzbwO4)
 - [Tech Entrepreneur | Careers in Tech | Career Day 20](https://www.youtube.com/watch?v=Y31gb9noaBA)
 - [AI Tools Unveiled: Setup &amp; Use An Open Source LLM](https://www.youtube.com/watch?v=CmKXhBtBej0)
 - [AI Tools Unveiled: Advanced Image Processing](https://www.youtube.com/watch?v=pSoJR95OYX8)
-- [AI Tools Unveiled: The GitHub of AI](https://www.youtube.com/watch?v=7PZiDbqBpXs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
