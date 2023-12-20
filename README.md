@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kyck Create Payee Endpoint with Validators](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-2. 🎉 Merged PR [#7](https://github.com/unbank/unbank-kyckglobal/pull/7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 💪 Opened PR [#7](https://github.com/unbank/unbank-kyckglobal/pull/7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 🚀 Published release [Kyck API Update](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🎉 Merged PR [#6](https://github.com/unbank/unbank-kyckglobal/pull/6) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 💪 Opened PR [#8](https://github.com/unbank/unbank-kyckglobal/pull/8) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🚀 Published release [Kyck Create Payee Endpoint with Validators](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 🎉 Merged PR [#7](https://github.com/unbank/unbank-kyckglobal/pull/7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 💪 Opened PR [#7](https://github.com/unbank/unbank-kyckglobal/pull/7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 🚀 Published release [Kyck API Update](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
