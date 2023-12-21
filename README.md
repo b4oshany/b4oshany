@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.2.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-2. 🎉 Merged PR [#8](https://github.com/unbank/unbank-kyckglobal/pull/8) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 💪 Opened PR [#8](https://github.com/unbank/unbank-kyckglobal/pull/8) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 🚀 Published release [Kyck Create Payee Endpoint with Validators](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.0.3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🎉 Merged PR [#7](https://github.com/unbank/unbank-kyckglobal/pull/7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🎉 Merged PR [#10](https://github.com/osoobe/laravel-utilities/pull/10) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+2. 💪 Opened PR [#10](https://github.com/osoobe/laravel-utilities/pull/10) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 🚀 Published release [1.2.0](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.2.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 🎉 Merged PR [#8](https://github.com/unbank/unbank-kyckglobal/pull/8) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 💪 Opened PR [#8](https://github.com/unbank/unbank-kyckglobal/pull/8) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
