@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cashout Helper](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.0) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-2. 🎉 Merged PR [#10](https://github.com/unbank/unbank-kyckglobal/pull/10) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 💪 Opened PR [#10](https://github.com/unbank/unbank-kyckglobal/pull/10) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 🗣 Commented on [#2902](https://github.com/freescout-helpdesk/freescout/issues/2902#issuecomment-1909970641) in [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)
-5. 🎉 Merged PR [#2](https://github.com/unbank/currency-scraper/pull/2) in [unbank/currency-scraper](https://github.com/unbank/currency-scraper)
+1. 🚀 Published release [Filtered Accounts](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.2) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#12](https://github.com/unbank/unbank-kyckglobal/pull/12) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 💪 Opened PR [#12](https://github.com/unbank/unbank-kyckglobal/pull/12) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 🚀 Published release [Manage Accounts](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.1) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 🎉 Merged PR [#11](https://github.com/unbank/unbank-kyckglobal/pull/11) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
