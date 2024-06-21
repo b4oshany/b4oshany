@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Road Map to Success](https://www.youtube.com/watch?v=WZZCe9tZ84k)
 - [JAD Debates: Entry Level Gate Keeping](https://www.youtube.com/watch?v=7OX_K_cxRkQ)
 - [Exploring the World of UI/UX Design: Career Day Insights | Career Day: #24 - UI/UX](https://www.youtube.com/watch?v=6fvnpPR34Xs)
 - [How to Become a Web Developer: A Guide to Choosing the Right Path](https://www.youtube.com/watch?v=o_Ac7sB22v8)
 - [Exploring Animation | Career Day: #21 - Careers in Tech](https://www.youtube.com/watch?v=MttuNFzbwO4)
-- [Tech Entrepreneur | Careers in Tech | Career Day 20](https://www.youtube.com/watch?v=Y31gb9noaBA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
