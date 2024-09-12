@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Welcome to the Jamaican Developers Community!](https://www.youtube.com/watch?v=qpsc9CYosnw)
 - [Cyber Security Presentation at UHWI: 3 Lines of Defense](https://www.youtube.com/watch?v=ftncY28M3KU)
 - [Roadmap to Success: Walk in the Footsteps of Several Industry Experts](https://www.youtube.com/watch?v=6KPVlDtSZ9w)
 - [Job Hunting - Where is the best place to hunt for work?](https://www.youtube.com/watch?v=U9teCVnWy6k)
 - [JAD Debates: Entry Level Gate Keeping](https://www.youtube.com/watch?v=7OX_K_cxRkQ)
-- [Exploring the World of UI/UX Design: Career Day Insights | Career Day: #24 - UI/UX](https://www.youtube.com/watch?v=6fvnpPR34Xs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
