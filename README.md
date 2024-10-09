@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/JamDevCo/Ackee-Walk-Backend/pull/5) in [JamDevCo/Ackee-Walk-Backend](https://github.com/JamDevCo/Ackee-Walk-Backend)
-2. 💪 Opened PR [#5](https://github.com/JamDevCo/Ackee-Walk-Backend/pull/5) in [JamDevCo/Ackee-Walk-Backend](https://github.com/JamDevCo/Ackee-Walk-Backend)
-3. 🎉 Merged PR [#4](https://github.com/JamDevCo/Ackee-Walk-Backend/pull/4) in [JamDevCo/Ackee-Walk-Backend](https://github.com/JamDevCo/Ackee-Walk-Backend)
-4. 🚀 Published release [Reprocess](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.3) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🎉 Merged PR [#14](https://github.com/unbank/unbank-kyckglobal/pull/14) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🚀 Published release [CashIn and Effective Payment Date](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.4) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#15](https://github.com/unbank/unbank-kyckglobal/pull/15) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 🎉 Merged PR [#5](https://github.com/JamDevCo/Ackee-Walk-Backend/pull/5) in [JamDevCo/Ackee-Walk-Backend](https://github.com/JamDevCo/Ackee-Walk-Backend)
+4. 💪 Opened PR [#5](https://github.com/JamDevCo/Ackee-Walk-Backend/pull/5) in [JamDevCo/Ackee-Walk-Backend](https://github.com/JamDevCo/Ackee-Walk-Backend)
+5. 🎉 Merged PR [#4](https://github.com/JamDevCo/Ackee-Walk-Backend/pull/4) in [JamDevCo/Ackee-Walk-Backend](https://github.com/JamDevCo/Ackee-Walk-Backend)
 <!--END_SECTION:activity-->
 
 </details>
