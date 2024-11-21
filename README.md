@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix date format](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-2. 🎉 Merged PR [#17](https://github.com/unbank/unbank-kyckglobal/pull/17) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-3. 💪 Opened PR [#17](https://github.com/unbank/unbank-kyckglobal/pull/17) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-4. 🚀 Published release [Error Handling](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.6) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
-5. 🎉 Merged PR [#16](https://github.com/unbank/unbank-kyckglobal/pull/16) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🚀 Published release [Improved Data](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.13) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 🎉 Merged PR [#23](https://github.com/unbank/unbank-kyckglobal/pull/23) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+3. 💪 Opened PR [#23](https://github.com/unbank/unbank-kyckglobal/pull/23) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+4. 🚀 Published release [Fix date format](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.7) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+5. 🎉 Merged PR [#17](https://github.com/unbank/unbank-kyckglobal/pull/17) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
 </details>
