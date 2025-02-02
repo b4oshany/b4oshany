@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Career in Tech](https://www.meetup.com/Jamaican-Developers-Group/events/)
+- [Are Jamaican tech workers overpaid or underpaid?](https://www.meetup.com/jamaican-developers-group/events/305947963/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
