@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Career Day 1: Positioning for Success](https://www.meetup.com/jamaican-developers-group/events/305929216/)
+- [Demo Day 1: Idea to App Store](https://www.meetup.com/jamaican-developers-group/events/305983633/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
