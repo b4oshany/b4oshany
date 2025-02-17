@@ -68,6 +68,7 @@
 
 <!-- EVENTS:START -->
 - [JamDev Connect Uno Tournament](https://www.meetup.com/jamaican-developers-group/events/306160486/)
+- [Career Day : Digital Marketing in today&#39;s world](https://www.meetup.com/jamaican-developers-group/events/306071956/)
 - [Demo Day 1: Idea to App Store](https://www.meetup.com/jamaican-developers-group/events/305983633/)
 <!-- EVENTS:END -->
 
