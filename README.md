@@ -69,7 +69,6 @@
 <!-- EVENTS:START -->
 - [How to Get Tech Jobs in This Economy?](https://www.meetup.com/jamaican-developers-group/events/306373061/)
 - [JamDev Connect Uno Tournament](https://www.meetup.com/jamaican-developers-group/events/306160486/)
-- [Career Day : Digital Marketing in today&#39;s world](https://www.meetup.com/jamaican-developers-group/events/306071956/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
