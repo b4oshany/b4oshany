@@ -67,7 +67,6 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [JamDev Connect Uno Tournament](https://www.meetup.com/jamaican-developers-group/events/306160486/)
 - [Demo Day: Innovate with Team Onepot](https://www.meetup.com/jamaican-developers-group/events/305984567/)
 <!-- EVENTS:END -->
 
