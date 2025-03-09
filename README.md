@@ -67,6 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
+- [Demo Day: Leveraging Multimodal Models](https://www.meetup.com/jamaican-developers-group/events/306618037/)
 - [Demo Day: Innovate with Team Onepot](https://www.meetup.com/jamaican-developers-group/events/305984567/)
 <!-- EVENTS:END -->
 
