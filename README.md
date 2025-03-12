@@ -76,11 +76,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Demo Day: Innovate with Team Onepot](https://www.youtube.com/watch?v=_W9cSQ8T2Es)
 - [How to Get Tech Jobs in This Economy?](https://www.youtube.com/watch?v=TGlkW2F-5d4)
 - [Are Jamaicans In Tech Overpaid or Underpaid?](https://www.youtube.com/watch?v=R1TIy2JJUAk)
 - [Idea to App Store | Demo Day](https://www.youtube.com/watch?v=FfB0y_eH2LI)
 - [Internship Debate: Free vs Paid Internship](https://www.youtube.com/watch?v=brgxhRXvhI8)
-- [Leveraging Multi-Modals to Make Predictions For Real Estate Prices](https://www.youtube.com/watch?v=yrIP5VeHAi4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
