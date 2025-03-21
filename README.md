@@ -76,11 +76,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Story of Intellibus and Post Hackathon Q&amp;A](https://www.youtube.com/watch?v=J6Owii5F2h4)
 - [Happy Black History Month from the Jamaica Developers Community](https://www.youtube.com/watch?v=DBP57t29ZY8)
 - [Demo Day: Leveraging Multi Modal Models to Make Prediction](https://www.youtube.com/watch?v=ZRk64VqEPWU)
 - [Demo Day: Innovate with Team Onepot](https://www.youtube.com/watch?v=_W9cSQ8T2Es)
 - [How to Get Tech Jobs in This Economy?](https://www.youtube.com/watch?v=TGlkW2F-5d4)
-- [Are Jamaicans In Tech Overpaid or Underpaid?](https://www.youtube.com/watch?v=R1TIy2JJUAk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
