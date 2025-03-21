@@ -67,6 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
+- [The Story of Intellibus and Post Hackathon Q&amp;A](https://www.meetup.com/jamaican-developers-group/events/306846341/)
 - [Demo Day: Leveraging Multimodal Models](https://www.meetup.com/jamaican-developers-group/events/306618037/)
 <!-- EVENTS:END -->
 
