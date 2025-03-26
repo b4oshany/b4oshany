@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Multimodal Models to make Predictions For Real Estate Prices!](https://www.youtube.com/watch?v=25_6sCMYdCE)
 - [The Intellibus Story and Post Hackathon Q&amp;A](https://www.youtube.com/watch?v=a3Mb5e4fEQk)
 - [The Story of Intellibus and Post Hackathon Q&amp;A](https://www.youtube.com/watch?v=J6Owii5F2h4)
 - [Happy Black History Month from the Jamaica Developers Community](https://www.youtube.com/watch?v=DBP57t29ZY8)
 - [Demo Day: Leveraging Multi Modal Models to Make Prediction](https://www.youtube.com/watch?v=ZRk64VqEPWU)
-- [Demo Day: Innovate with Team Onepot](https://www.youtube.com/watch?v=_W9cSQ8T2Es)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
