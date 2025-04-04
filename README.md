@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Demo Day: Leveraging Multimodal Models](https://www.meetup.com/jamaican-developers-group/events/306618037/)
+- [Vibe Coding - Good or Bad for the Industry?](https://www.meetup.com/jamaican-developers-group/events/307097842/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
