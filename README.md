@@ -67,7 +67,6 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [The Story of Everone Graham - Privacy Engineer @ Google](https://www.meetup.com/jamaican-developers-group/events/307109499/)
 - [Senior Dev Connect](https://www.meetup.com/jamaican-developers-group/events/307098852/)
 - [Vibe Coding - Good or Bad for the Industry?](https://www.meetup.com/jamaican-developers-group/events/307097842/)
 <!-- EVENTS:END -->
