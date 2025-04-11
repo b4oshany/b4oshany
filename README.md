@@ -105,10 +105,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/osoobe/laravel-utilities/pull/11) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 💪 Opened PR [#11](https://github.com/osoobe/laravel-utilities/pull/11) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 🚀 Published release [Laravel version 10 support](https://github.com/osoobe/laravel-utilities/releases/tag/v1.1.0) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 🚀 Published release [Improved Error Handling](https://github.com/unbank/unbank-kyckglobal/releases/tag/v1.3.14) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🗣 Commented on [#9274](https://github.com/bagisto/bagisto/issues/9274#issuecomment-2796675661) in [bagisto/bagisto](https://github.com/bagisto/bagisto)
+2. 🎉 Merged PR [#11](https://github.com/osoobe/laravel-utilities/pull/11) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 💪 Opened PR [#11](https://github.com/osoobe/laravel-utilities/pull/11) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 🚀 Published release [Laravel version 10 support](https://github.com/osoobe/laravel-utilities/releases/tag/v1.1.0) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 5. 🎉 Merged PR [#24](https://github.com/unbank/unbank-kyckglobal/pull/24) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 <!--END_SECTION:activity-->
 
