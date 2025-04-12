@@ -76,11 +76,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vibe Coding: Is it good or bad for the Industry will be held tonight!](https://www.youtube.com/watch?v=WufA3lRmnWI)
 - [The Story of Everone Graham - Privacy Engineer @ Google](https://www.youtube.com/watch?v=cysomTlK9VQ)
 - [Developing Multimodal Models to make Predictions For Real Estate Prices!](https://www.youtube.com/watch?v=25_6sCMYdCE)
 - [The Intellibus Story and Post Hackathon Q&amp;A](https://www.youtube.com/watch?v=a3Mb5e4fEQk)
 - [Happy Black History Month from the Jamaica Developers Community](https://www.youtube.com/watch?v=DBP57t29ZY8)
-- [Demo Day: Innovate with Team Onepot](https://www.youtube.com/watch?v=_W9cSQ8T2Es)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
