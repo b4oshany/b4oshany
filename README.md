@@ -68,7 +68,6 @@
 
 <!-- EVENTS:START -->
 - [Senior Dev Connect](https://www.meetup.com/jamaican-developers-group/events/307098852/)
-- [Vibe Coding - Good or Bad for the Industry?](https://www.meetup.com/jamaican-developers-group/events/307097842/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
