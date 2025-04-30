@@ -67,7 +67,6 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Community Outreach: Building Tech Communities](https://www.meetup.com/jamaican-developers-group/events/307189201/)
 - [The Story of Glen Henry -  Founder of SpriteWrench](https://www.meetup.com/jamaican-developers-group/events/307188187/)
 - [Senior Dev Connect](https://www.meetup.com/jamaican-developers-group/events/307098852/)
 <!-- EVENTS:END -->
