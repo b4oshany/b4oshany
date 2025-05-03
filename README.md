@@ -68,7 +68,6 @@
 
 <!-- EVENTS:START -->
 - [The Story of Glen Henry -  Founder of SpriteWrench](https://www.meetup.com/jamaican-developers-group/events/307188187/)
-- [Senior Dev Connect](https://www.meetup.com/jamaican-developers-group/events/307098852/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
