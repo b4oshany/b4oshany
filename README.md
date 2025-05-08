@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [The Story of Glen Henry -  Founder of SpriteWrench](https://www.meetup.com/jamaican-developers-group/events/307188187/)
+- [AI Art: The Good, The Bad &amp; The Ugly.](https://www.meetup.com/jamaican-developers-group/events/307718477/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
