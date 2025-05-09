@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Join the Jamaican Developers Community](https://www.youtube.com/watch?v=rbVUqn0NB08)
 - [The Story of Glen Henry - Founder of SpriteWrench](https://www.youtube.com/watch?v=ueF_cscrv3M)
 - [The Story of Matthew Stone - JAIA Founder And President](https://www.youtube.com/watch?v=FPE99iXN9Kk)
 - [Vibe Coding - Good or Bad for the Industry?](https://www.youtube.com/watch?v=xW8R9i57E4U)
 - [Vibe Coding: Is it good or bad for the Industry will be held tonight!](https://www.youtube.com/watch?v=WufA3lRmnWI)
-- [The Story of Everone Graham - Privacy Engineer @ Google](https://www.youtube.com/watch?v=cysomTlK9VQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
