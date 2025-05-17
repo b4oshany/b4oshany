@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [AI Art: The Good, The Bad &amp; The Ugly.](https://www.meetup.com/jamaican-developers-group/events/307718477/)
+- [AI Art: The Good, The Bad &amp; The Ugly.](https://www.meetup.com/jamaican-developers-group/events/307881380/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
