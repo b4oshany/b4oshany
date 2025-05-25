@@ -68,7 +68,6 @@
 
 <!-- EVENTS:START -->
 - [Demo Day: Every Dolla](https://www.meetup.com/jamaican-developers-group/events/307949975/)
-- [AI Art: The Good, The Bad &amp; The Ugly.](https://www.meetup.com/jamaican-developers-group/events/307881380/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
