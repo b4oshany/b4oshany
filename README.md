@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [New JaD Anime Mouse Pad Just Dropped! 🇯🇲🖱#merch #desksetup #style #anime](https://www.youtube.com/shorts/_uUyZLhgXA4)
 - [The Touchscreen Revolution: From Invention to Innovation | World Creativity &amp; Innovation Day](https://www.youtube.com/watch?v=PnVM5lzfziA)
 - [Every Dolla with Sammarieo Brown](https://www.youtube.com/watch?v=wMEkWm6OabI)
 - [Join the Jamaican Developers Community](https://www.youtube.com/shorts/rbVUqn0NB08)
 - [The Story of Glen Henry - Founder of SpriteWrench](https://www.youtube.com/watch?v=ueF_cscrv3M)
-- [The Story of Matthew Stone - JAIA Founder And President](https://www.youtube.com/watch?v=FPE99iXN9Kk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
