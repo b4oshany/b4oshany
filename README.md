@@ -75,7 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [HAPPY FATHER&#39;S DAY](https://www.youtube.com/watch?v=JyRXPSEWEiA)
+- [HAPPY FATHER&#39;S DAY](https://www.youtube.com/shorts/JyRXPSEWEiA)
 - [New JaD Community Mouse Pad Drop! 🔥 Anime Edition for Gamers &amp; Creators 🇯🇲](https://www.youtube.com/watch?v=MtSdTnJmlSM)
 - [New JaD Anime Mouse Pad Just Dropped! 🇯🇲🖱#merch #desksetup #style #anime](https://www.youtube.com/shorts/_uUyZLhgXA4)
 - [The Touchscreen Revolution: From Invention to Innovation | World Creativity &amp; Innovation Day](https://www.youtube.com/watch?v=PnVM5lzfziA)
