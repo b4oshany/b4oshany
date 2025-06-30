@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Monetize Your App with Jingle: Plug-In Launch &amp; Pioneers Club Kickoff](https://www.meetup.com/jamaican-developers-group/events/308502743/)
+- [Workshop : Oracle Workshop](https://www.meetup.com/jamaican-developers-group/events/300961950/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
