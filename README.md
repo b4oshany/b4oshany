@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jingle Creator App Event](https://www.youtube.com/watch?v=g7ENhjJrU7M)
 - [Jingle Creator App Event](https://www.youtube.com/watch?v=wknBcWfT-OE)
 - [Directions to Jingle Event](https://www.youtube.com/watch?v=k1H91boBKIk)
 - [Jingle App Dev Connect](https://www.youtube.com/shorts/nAb5RTAitjE)
 - [HAPPY FATHER&#39;S DAY](https://www.youtube.com/shorts/JyRXPSEWEiA)
-- [New JaD Community Mouse Pad Drop! 🔥 Anime Edition for Gamers &amp; Creators 🇯🇲](https://www.youtube.com/watch?v=MtSdTnJmlSM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
