@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Workshop : Oracle Workshop](https://www.meetup.com/jamaican-developers-group/events/300961950/)
+- [Web Dev Connect](https://www.meetup.com/jamaican-developers-group/events/309146248/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
