@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [UNO Jamaican Edition Review 🇯🇲 | Island Twist on the Classic Card Game!](https://www.youtube.com/watch?v=sicUM4r_vmY)
 - [Rep the movement, stay organized, and support local tech growth - Grab yours now on ShopYahso](https://www.youtube.com/shorts/lbgk8nqZzXY)
 - [Oracle Workshop](https://www.youtube.com/watch?v=V1peYaylUEI)
 - [Directions to Jingle Event](https://www.youtube.com/watch?v=k1H91boBKIk)
 - [Jingle App Dev Connect](https://www.youtube.com/shorts/nAb5RTAitjE)
-- [HAPPY FATHER&#39;S DAY](https://www.youtube.com/shorts/JyRXPSEWEiA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
