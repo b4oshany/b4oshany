@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AnimeCom Fest - Digital Art Battle is live](https://www.youtube.com/watch?v=IXDq2sTv02Y)
 - [Web Dev Connect](https://www.youtube.com/watch?v=YWphnmKRK80)
 - [Meet Oshane Bailey: Building Caribbean Tech with Osoobe, ShopYahso &amp; Upcoming 2025/2026 Events](https://www.youtube.com/watch?v=RDLzmgdyAC8)
 - [Unboxing the Caribbean Tech Connect Mousepad! with Glenford 🔥🇯🇲 #TechSwag #jamdevco #techcommunity](https://www.youtube.com/shorts/Xd74Z5Ti634)
 - [UNO Jamaican Edition Review 🇯🇲 | Island Twist on the Classic Card Game!](https://www.youtube.com/watch?v=sicUM4r_vmY)
+- [Rep the movement, stay organized, and support local tech growth - Grab yours now on ShopYahso](https://www.youtube.com/shorts/lbgk8nqZzXY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
