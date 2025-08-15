@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Web Dev Connect](https://www.meetup.com/jamaican-developers-group/events/309146248/)
+- [Community Trip to Irie Camp](https://www.meetup.com/jamaican-developers-group/events/310537657/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
