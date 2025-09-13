@@ -105,8 +105,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/jordanliu/made-in-jamaica/pull/15) in [jordanliu/made-in-jamaica](https://github.com/jordanliu/made-in-jamaica)
-2. 🎉 Merged PR [#28](https://github.com/unbank/unbank-kyckglobal/pull/28) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+1. 🎉 Merged PR [#26](https://github.com/unbank/unbank-kyckglobal/pull/26) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
+2. 💪 Opened PR [#15](https://github.com/jordanliu/made-in-jamaica/pull/15) in [jordanliu/made-in-jamaica](https://github.com/jordanliu/made-in-jamaica)
 3. 💪 Opened PR [#28](https://github.com/unbank/unbank-kyckglobal/pull/28) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
 4. 🚀 Published release [Laravel version 10 support](https://github.com/osoobe/laravel-utilities/releases/tag/v1.1.0) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 5. 🎉 Merged PR [#24](https://github.com/unbank/unbank-kyckglobal/pull/24) in [unbank/unbank-kyckglobal](https://github.com/unbank/unbank-kyckglobal)
