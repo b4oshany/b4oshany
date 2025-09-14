@@ -67,7 +67,6 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [How To Properly Negotiate Salary](https://www.meetup.com/jamaican-developers-group/events/310939681/)
 - [Community Trip to Irie Camp](https://www.meetup.com/jamaican-developers-group/events/310537657/)
 <!-- EVENTS:END -->
 
