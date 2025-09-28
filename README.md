@@ -67,6 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
+- [Financial Wellness For The Future](https://www.meetup.com/jamaican-developers-group/events/311260869/)
 - [Community Trip to Irie Camp](https://www.meetup.com/jamaican-developers-group/events/310537657/)
 <!-- EVENTS:END -->
 
