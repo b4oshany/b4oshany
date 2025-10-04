@@ -67,6 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
+- [Medical Wealth](https://www.meetup.com/jamaican-developers-group/events/311375835/)
 - [Community Trip to Irie Camp](https://www.meetup.com/jamaican-developers-group/events/310537657/)
 <!-- EVENTS:END -->
 
