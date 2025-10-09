@@ -67,6 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
+- [Wealth Webinar with JMMB](https://www.meetup.com/jamaican-developers-group/events/311451662/)
 - [Community Trip to Irie Camp](https://www.meetup.com/jamaican-developers-group/events/310537657/)
 <!-- EVENTS:END -->
 
