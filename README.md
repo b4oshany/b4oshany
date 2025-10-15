@@ -76,11 +76,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Wealth Webinar with JMMB](https://www.youtube.com/watch?v=Bk2R2hD2IFg)
 - [How To Properly Negotiate Salary](https://www.youtube.com/watch?v=IZ_RfwpC2Gk)
 - [Web Dev Connect](https://www.youtube.com/watch?v=YWphnmKRK80)
 - [Meet Oshane Bailey: Building Caribbean Tech with Osoobe, ShopYahso &amp; Upcoming 2025/2026 Events](https://www.youtube.com/watch?v=RDLzmgdyAC8)
 - [Unboxing the Caribbean Tech Connect Mousepad! with Glenford 🔥🇯🇲 #TechSwag #jamdevco #techcommunity](https://www.youtube.com/shorts/Xd74Z5Ti634)
-- [UNO Jamaican Edition Review 🇯🇲 | Island Twist on the Classic Card Game!](https://www.youtube.com/watch?v=sicUM4r_vmY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
