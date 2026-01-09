@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Community Trip to Irie Camp](https://www.meetup.com/jamaican-developers-group/events/310537657/)
+- [Pre-Hackathon Workshop](https://www.meetup.com/jamaican-developers-group/events/312805133/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
