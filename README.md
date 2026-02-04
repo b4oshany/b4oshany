@@ -104,8 +104,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6937](https://github.com/btcpayserver/btcpayserver/issues/6937#issuecomment-3817951255) in [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
-2. ❗ Opened issue [#6937](https://github.com/btcpayserver/btcpayserver/issues/6937) in [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+1. 🗣 Commented on [#6937](https://github.com/btcpayserver/btcpayserver/issues/6937#issuecomment-3844432362) in [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+2. 🗣 Commented on [#6937](https://github.com/btcpayserver/btcpayserver/issues/6937#issuecomment-3817951255) in [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 3. 💪 Opened PR [#12](undefined) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 4. 🗣 Commented on [#10538](https://github.com/bagisto/bagisto/issues/10538#issuecomment-3292071887) in [bagisto/bagisto](https://github.com/bagisto/bagisto)
 5. 🗣 Commented on [#10538](https://github.com/bagisto/bagisto/issues/10538#issuecomment-3292066581) in [bagisto/bagisto](https://github.com/bagisto/bagisto)
