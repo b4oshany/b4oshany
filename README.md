@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 🎉 Merged PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 🎉 Merged PR [#13](https://github.com/osoobe/laravel-utilities/pull/13) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-5. 💪 Opened PR [#13](https://github.com/osoobe/laravel-utilities/pull/13) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+1. ℹ️ Assigned PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+2. 💪 Opened PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 🎉 Merged PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 💪 Opened PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+5. 🎉 Merged PR [#13](https://github.com/osoobe/laravel-utilities/pull/13) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
