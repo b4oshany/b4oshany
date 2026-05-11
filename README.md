@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-settings/pull/1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-2. 💪 Opened PR [#1](https://github.com/osoobe/laravel-settings/pull/1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-3. 💪 Opened PR [#12](undefined) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 🗣 Commented on [#10538](https://github.com/bagisto/bagisto/issues/10538#issuecomment-3292071887) in [bagisto/bagisto](https://github.com/bagisto/bagisto)
-5. 🗣 Commented on [#10538](https://github.com/bagisto/bagisto/issues/10538#issuecomment-3292066581) in [bagisto/bagisto](https://github.com/bagisto/bagisto)
+1. 🚀 Published release [2.0.0 - Overriding configs](https://github.com/osoobe/laravel-settings/releases/tag/2.0.0) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+2. 🎉 Merged PR [#2](https://github.com/osoobe/laravel-settings/pull/2) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+3. 💪 Opened PR [#2](https://github.com/osoobe/laravel-settings/pull/2) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+4. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-settings/pull/1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+5. 💪 Opened PR [#1](https://github.com/osoobe/laravel-settings/pull/1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 <!--END_SECTION:activity-->
 
 </details>
