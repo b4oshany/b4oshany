@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. ℹ️ Assigned PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 🎉 Merged PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-5. 💪 Opened PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+1. 🚀 Published release [Initial Release](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/v1.0.1) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+2. 🎉 Merged PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. ℹ️ Assigned PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 💪 Opened PR [#15](https://github.com/osoobe/laravel-utilities/pull/15) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+5. 🎉 Merged PR [#14](https://github.com/osoobe/laravel-utilities/pull/14) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
