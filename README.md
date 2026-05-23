@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/osoobe/laravel-utilities/pull/17) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-2. 💪 Opened PR [#17](https://github.com/osoobe/laravel-utilities/pull/17) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 🎉 Merged PR [#16](https://github.com/osoobe/laravel-utilities/pull/16) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 💪 Opened PR [#16](https://github.com/osoobe/laravel-utilities/pull/16) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-5. 🎉 Merged PR [#2](https://github.com/osoobe/freescout-api-extender/pull/2) in [osoobe/freescout-api-extender](https://github.com/osoobe/freescout-api-extender)
+1. 🎉 Merged PR [#4](https://github.com/osoobe/laravel-settings/pull/4) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+2. 💪 Opened PR [#4](https://github.com/osoobe/laravel-settings/pull/4) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+3. 🎉 Merged PR [#17](https://github.com/osoobe/laravel-utilities/pull/17) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+4. 💪 Opened PR [#17](https://github.com/osoobe/laravel-utilities/pull/17) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+5. 🎉 Merged PR [#16](https://github.com/osoobe/laravel-utilities/pull/16) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
 <!--END_SECTION:activity-->
 
 </details>
