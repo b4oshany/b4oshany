@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DimePay Improvements](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/v1.0.2) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-2. 🗣 Commented on [#14](https://github.com/osoobe/dimepay-laravel-sdk/pull/14#issuecomment-4557151377) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-3. 🚀 Published release [Laravel 12 Support](https://github.com/osoobe/laravel-settings/releases/tag/2.3.0) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-4. 🎉 Merged PR [#6](https://github.com/osoobe/laravel-settings/pull/6) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-5. 💪 Opened PR [#6](https://github.com/osoobe/laravel-settings/pull/6) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+1. 🎉 Merged PR [#18](https://github.com/osoobe/laravel-utilities/pull/18) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+2. 💪 Opened PR [#18](https://github.com/osoobe/laravel-utilities/pull/18) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
+3. 🚀 Published release [DimePay Improvements](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/v1.0.2) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+4. 🗣 Commented on [#14](https://github.com/osoobe/dimepay-laravel-sdk/pull/14#issuecomment-4557151377) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+5. 🚀 Published release [Laravel 12 Support](https://github.com/osoobe/laravel-settings/releases/tag/2.3.0) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 <!--END_SECTION:activity-->
 
 </details>
