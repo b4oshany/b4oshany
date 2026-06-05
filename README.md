@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#701](https://github.com/freescout-help-desk/freescout/issues/701#issuecomment-4618359294) in [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)
-2. 🎉 Merged PR [#18](https://github.com/osoobe/laravel-utilities/pull/18) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-3. 💪 Opened PR [#18](https://github.com/osoobe/laravel-utilities/pull/18) in [osoobe/laravel-utilities](https://github.com/osoobe/laravel-utilities)
-4. 🚀 Published release [DimePay Improvements](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/v1.0.2) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-5. 🗣 Commented on [#14](https://github.com/osoobe/dimepay-laravel-sdk/pull/14#issuecomment-4557151377) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+1. 🚀 Published release [ Laravel 13 support, PHP 8.4, the compatibility test suite](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/1.1.0) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+2. 🎉 Merged PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+3. 💪 Opened PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+4. 🚀 Published release [Laravel 13 Support](https://github.com/osoobe/laravel-settings/releases/tag/2.4.0) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+5. 🎉 Merged PR [#7](https://github.com/osoobe/laravel-settings/pull/7) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 <!--END_SECTION:activity-->
 
 </details>
