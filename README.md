@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.4.1 - Bug fixes](https://github.com/osoobe/laravel-settings/releases/tag/2.4.1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-2. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-settings/pull/8) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-3. 💪 Opened PR [#8](https://github.com/osoobe/laravel-settings/pull/8) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-4. 🚀 Published release [ Laravel 13 support, PHP 8.4, the compatibility test suite](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/1.1.0) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-5. 🎉 Merged PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+1. 🗣 Commented on [#1](https://github.com/osoobe/dimepay-laravel-sdk/issues/1#issuecomment-4654176023) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+2. 🔒 Closed issue [#1](https://github.com/osoobe/dimepay-laravel-sdk/issues/1) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+3. ℹ️ Assigned issue [#1](https://github.com/osoobe/dimepay-laravel-sdk/issues/1) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+4. 🚀 Published release [v2.4.1 - Bug fixes](https://github.com/osoobe/laravel-settings/releases/tag/2.4.1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+5. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-settings/pull/8) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 <!--END_SECTION:activity-->
 
 </details>
