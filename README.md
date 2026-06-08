@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ Laravel 13 support, PHP 8.4, the compatibility test suite](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/1.1.0) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-2. 🎉 Merged PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-3. 💪 Opened PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
-4. 🚀 Published release [Laravel 13 Support](https://github.com/osoobe/laravel-settings/releases/tag/2.4.0) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-5. 🎉 Merged PR [#7](https://github.com/osoobe/laravel-settings/pull/7) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+1. 💪 Opened PR [#8](https://github.com/osoobe/laravel-settings/pull/8) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+2. 🚀 Published release [ Laravel 13 support, PHP 8.4, the compatibility test suite](https://github.com/osoobe/dimepay-laravel-sdk/releases/tag/1.1.0) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+3. 🎉 Merged PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+4. 💪 Opened PR [#15](https://github.com/osoobe/dimepay-laravel-sdk/pull/15) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+5. 🚀 Published release [Laravel 13 Support](https://github.com/osoobe/laravel-settings/releases/tag/2.4.0) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 <!--END_SECTION:activity-->
 
 </details>
