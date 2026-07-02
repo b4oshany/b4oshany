@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Pre-Hackathon Workshop](https://www.meetup.com/jamaican-developers-group/events/312805133/)
+- [Ackee Circle Hackathon](https://www.meetup.com/jamaican-developers-group/events/315511376/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
