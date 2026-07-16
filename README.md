@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ackee Circle Hackathon is live!](https://www.youtube.com/watch?v=XYNgJjUhh1A)
-- [Ackee Circle Hackathon Presentation is live!](https://www.youtube.com/watch?v=v5BshvR1hnQ)
+- [Interview with John Galt Insurance Agent Michelle Grant](https://www.youtube.com/watch?v=pxFMK4Wgfs8)
+- [Ackee Circle Hackathon Sponsor Presentation!](https://www.youtube.com/watch?v=XYNgJjUhh1A)
+- [Ackee Circle Hackathon Participant Presentation and winner announcement!](https://www.youtube.com/watch?v=v5BshvR1hnQ)
 - [Wealth Webinar with JMMB](https://www.youtube.com/watch?v=Bk2R2hD2IFg)
 - [How To Properly Negotiate Salary](https://www.youtube.com/watch?v=IZ_RfwpC2Gk)
-- [Web Dev Connect](https://www.youtube.com/watch?v=YWphnmKRK80)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
