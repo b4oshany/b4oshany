@@ -104,9 +104,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Spatie Permissions](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
-2. 🚀 Published release [Initial Release](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.0) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
-3. ℹ️ Assigned issue [#1](https://github.com/osoobe/dimepay-laravel-sdk/issues/1) in [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk)
+1. 💪 Opened PR [#1](https://github.com/osoobe/laravel-quiz/pull/1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+2. 🚀 Published release [Spatie Permissions](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+3. 🚀 Published release [Initial Release](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.0) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
 4. 🚀 Published release [v2.4.1 - Bug fixes](https://github.com/osoobe/laravel-settings/releases/tag/2.4.1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 5. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-settings/pull/8) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
 <!--END_SECTION:activity-->
