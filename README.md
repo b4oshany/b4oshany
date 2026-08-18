@@ -104,11 +104,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/osoobe/laravel-quiz/pull/1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
-2. 🚀 Published release [Spatie Permissions](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
-3. 🚀 Published release [Initial Release](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.0) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
-4. 🚀 Published release [v2.4.1 - Bug fixes](https://github.com/osoobe/laravel-settings/releases/tag/2.4.1) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-5. 🎉 Merged PR [#8](https://github.com/osoobe/laravel-settings/pull/8) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
+1. 💪 Opened PR [#2](https://github.com/osoobe/laravel-quiz/pull/2) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+2. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-quiz/pull/1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+3. 💪 Opened PR [#1](https://github.com/osoobe/laravel-quiz/pull/1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+4. 🚀 Published release [Spatie Permissions](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+5. 🚀 Published release [Initial Release](https://github.com/osoobe/laravel-quiz/releases/tag/v1.0.0) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
 <!--END_SECTION:activity-->
 
 </details>
