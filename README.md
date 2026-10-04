@@ -67,7 +67,8 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Ackee Circle Hackathon](https://www.meetup.com/jamaican-developers-group/events/315511376/)
+- [Demo Day: Feathershot](https://www.meetup.com/jamaican-developers-group/events/316843437/)
+- [Demo Day: Every Dolla](https://www.meetup.com/jamaican-developers-group/events/316842834/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
