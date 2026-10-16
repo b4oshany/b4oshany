@@ -75,7 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Every Dolla with Sammarieo Brown](https://www.youtube.com/watch?v=gV8zgI5fuLw)
+- [EveryDolla Demo: Automated Personal Finance Tracking for Jamaicans | Caribbean Tech Connect](https://www.youtube.com/watch?v=gV8zgI5fuLw)
 - [Celebrating freedom, culture, and the future of sound! 🇯🇲 🔥&quot;Jamaican at Emancipation&quot;](https://www.youtube.com/shorts/qgwGB9dw3LQ)
 - [Interview with John Galt Insurance Agent Michelle Grant](https://www.youtube.com/watch?v=pxFMK4Wgfs8)
 - [Ackee Circle Hackathon Sponsor Presentation!](https://www.youtube.com/watch?v=XYNgJjUhh1A)
