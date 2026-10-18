@@ -67,6 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
+- [Demo Day: CITE](https://www.meetup.com/jamaican-developers-group/events/317030691/)
 - [Demo Day: Drive Guider](https://www.meetup.com/jamaican-developers-group/events/317020671/)
 - [Demo Day: Feathershot](https://www.meetup.com/jamaican-developers-group/events/316843437/)
 <!-- EVENTS:END -->
