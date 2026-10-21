@@ -106,11 +106,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.4.2 - Bug fixes](https://github.com/osoobe/laravel-settings/releases/tag/v2.4.2) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-2. 🎉 Merged PR [#9](https://github.com/osoobe/laravel-settings/pull/9) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-3. 💪 Opened PR [#9](https://github.com/osoobe/laravel-settings/pull/9) in [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings)
-4. 🎉 Merged PR [#1](https://github.com/osoobe/laravel-quiz/pull/1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
-5. 💪 Opened PR [#1](https://github.com/osoobe/laravel-quiz/pull/1) in [osoobe/laravel-quiz](https://github.com/osoobe/laravel-quiz)
+1. 🚀 Published release [Fix CVE-2026-109618  and CVE-2026-109619](https://github.com/JamDevCo/Laravel-Sail-Docker-Image/releases/tag/1.1.1) in [JamDevCo/Laravel-Sail-Docker-Image](https://github.com/JamDevCo/Laravel-Sail-Docker-Image)
+2. 🎉 Merged PR [#5](https://github.com/JamDevCo/Laravel-Sail-Docker-Image/pull/5) in [JamDevCo/Laravel-Sail-Docker-Image](https://github.com/JamDevCo/Laravel-Sail-Docker-Image)
+3. 💪 Opened PR [#5](https://github.com/JamDevCo/Laravel-Sail-Docker-Image/pull/5) in [JamDevCo/Laravel-Sail-Docker-Image](https://github.com/JamDevCo/Laravel-Sail-Docker-Image)
+4. ❌ Closed PR [#2](https://github.com/JamDevCo/Laravel-Sail-Docker-Image/pull/2) in [JamDevCo/Laravel-Sail-Docker-Image](https://github.com/JamDevCo/Laravel-Sail-Docker-Image)
+5. 🎉 Merged PR [#4](https://github.com/JamDevCo/Laravel-Sail-Docker-Image/pull/4) in [JamDevCo/Laravel-Sail-Docker-Image](https://github.com/JamDevCo/Laravel-Sail-Docker-Image)
 <!--END_SECTION:activity-->
 
 </details>
