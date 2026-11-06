@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cite with Kimani Mcleish](https://www.youtube.com/watch?v=bi_TgbRV90c)
 - [Feathershot with Christopher Shim](https://www.youtube.com/watch?v=9PHZ_31hCv0)
 - [EveryDolla Demo: Automated Personal Finance Tracking for Jamaicans | Caribbean Tech Connect](https://www.youtube.com/watch?v=gV8zgI5fuLw)
 - [Celebrating freedom, culture, and the future of sound! 🇯🇲 🔥&quot;Jamaican at Emancipation&quot;](https://www.youtube.com/shorts/qgwGB9dw3LQ)
 - [Interview with John Galt Insurance Agent Michelle Grant](https://www.youtube.com/watch?v=pxFMK4Wgfs8)
-- [Ackee Circle Hackathon Sponsor Presentation!](https://www.youtube.com/watch?v=XYNgJjUhh1A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
