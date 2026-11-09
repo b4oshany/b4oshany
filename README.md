@@ -67,7 +67,8 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Demo Day: CITE](https://www.meetup.com/jamaican-developers-group/events/317030691/)
+- [Demo Day: Bible Quest Adventure](https://www.meetup.com/jamaican-developers-group/events/317347858/)
+- [Demo Day: Bible Quest Adventure](https://www.meetup.com/jamaican-developers-group/events/317347826/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
