@@ -67,8 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Demo Day: Bible Quest Adventure](https://www.meetup.com/jamaican-developers-group/events/317347858/)
-- [Demo Day: Bible Quest Adventure](https://www.meetup.com/jamaican-developers-group/events/317347826/)
+- [Demo Day: Tutor](https://www.meetup.com/jamaican-developers-group/events/317462650/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
