@@ -67,7 +67,7 @@
 ### 📺 Upcoming Tech Events
 
 <!-- EVENTS:START -->
-- [Demo Day: Tutor](https://www.meetup.com/jamaican-developers-group/events/317462650/)
+- [Demo Day: Night Shift](https://www.meetup.com/jamaican-developers-group/events/317516118/)
 <!-- EVENTS:END -->
 
 ➡️ [more events...](https://www.meetup.com/Jamaican-Developers-Group/events/)
