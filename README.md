@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BLACK FRIDAY REFERRAL CHALLENGE - Caribbean Tech Expo 2K27 🌴](https://www.youtube.com/shorts/TFdgVg01JzQ)
 - [Tutor with Jamar Plummer | Demo Day](https://www.youtube.com/watch?v=GVtaqLWeCtM)
 - [Cite with Kimani Mcleish](https://www.youtube.com/watch?v=bi_TgbRV90c)
 - [Feathershot with Christopher Shim](https://www.youtube.com/watch?v=9PHZ_31hCv0)
 - [EveryDolla Demo: Automated Personal Finance Tracking for Jamaicans | Caribbean Tech Connect](https://www.youtube.com/watch?v=gV8zgI5fuLw)
-- [Celebrating freedom, culture, and the future of sound! 🇯🇲 🔥&quot;Jamaican at Emancipation&quot;](https://www.youtube.com/shorts/qgwGB9dw3LQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
