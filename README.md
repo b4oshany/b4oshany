@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Meet Cite: The Jamaican-Built App Making Maps Smarter with Real-Time Community Updates](https://www.youtube.com/shorts/b3FhBhrMn3o)
 - [BLACK FRIDAY REFERRAL CHALLENGE - Caribbean Tech Expo 2K27 🌴](https://www.youtube.com/shorts/TFdgVg01JzQ)
-- [Tutor with Jamar Plummer | Demo Day](https://www.youtube.com/watch?v=GVtaqLWeCtM)
-- [Cite with Kimani Mcleish](https://www.youtube.com/watch?v=bi_TgbRV90c)
+- [Meet Tutor: An AI App That Teaches Students Instead of Doing Their Homework](https://www.youtube.com/watch?v=GVtaqLWeCtM)
+- [Jamaican Developer Builds a Waze-Like Mapping App for Communities | Cite Demo](https://www.youtube.com/watch?v=bi_TgbRV90c)
 - [Feathershot with Christopher Shim](https://www.youtube.com/watch?v=9PHZ_31hCv0)
-- [EveryDolla Demo: Automated Personal Finance Tracking for Jamaicans | Caribbean Tech Connect](https://www.youtube.com/watch?v=gV8zgI5fuLw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
