@@ -75,11 +75,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Night Shift with Najay Green](https://www.youtube.com/watch?v=0XY8rBEk9dE)
 - [Meet Cite: The Jamaican-Built App Making Maps Smarter with Real-Time Community Updates](https://www.youtube.com/shorts/b3FhBhrMn3o)
 - [BLACK FRIDAY REFERRAL CHALLENGE - Caribbean Tech Expo 2K27 🌴](https://www.youtube.com/shorts/TFdgVg01JzQ)
 - [Meet Tutor: An AI App That Teaches Students Instead of Doing Their Homework](https://www.youtube.com/watch?v=GVtaqLWeCtM)
 - [Jamaican Developer Builds a Waze-Like Mapping App for Communities | Cite Demo](https://www.youtube.com/watch?v=bi_TgbRV90c)
-- [Feathershot with Christopher Shim](https://www.youtube.com/watch?v=9PHZ_31hCv0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
